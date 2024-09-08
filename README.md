@@ -12,6 +12,10 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 *Did I miss something? Do you have a boilerplate to share? -> create a PR*
 
+## Flutter (Dart)
+
+- Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
+
 ## iOS (Swift / SwiftUI)
 - Swift Maker - https://swiftmaker.dev/
 
