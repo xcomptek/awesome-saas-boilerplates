@@ -27,6 +27,9 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Sjabloon https://www.getsjabloon.com/
 - Rails Tabler Starter https://github.com/tarunvelli/rails-tabler-starter
 
+## Vue
+
+- Quapp: Quasar + Appwrite Full stack Quality Application Framework https://www.quapp.dev/
 
 ## Node.js (Javascript)
 
