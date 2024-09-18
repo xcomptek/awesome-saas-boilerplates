@@ -209,3 +209,6 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 ## AWS
 - BoilerPro - https://boilerpro.co
+
+## Firebase
+- SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
