@@ -13,12 +13,24 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
+## Flutter (Dart)
+
+- Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
+
+## iOS (Swift / SwiftUI)
+
+- Swift Maker - https://swiftmaker.dev/
+
 ## Ruby on Rails
 
 - Bullet Train https://bullettrain.co
 - Jumpstart Rails https://jumpstartrails.com/
 - Sjabloon https://www.getsjabloon.com/
 - Rails Tabler Starter https://github.com/tarunvelli/rails-tabler-starter
+
+## Vue
+
+- Quapp: Quasar + Appwrite Full stack Quality Application Framework https://www.quapp.dev/
 
 ## Node.js (Javascript)
 
@@ -61,6 +73,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - SaaSBold - https://saasbold.com/
 - StartKit.AI - https://startkit.ai
 - WEBAPPBOOST Next.js turborepo boilerplate - [https://webappboost.com](https://webappboost.com)
+- shadcn/pro SaaS starter kit - https://shadcnpro.com/
 - BoilerPro - https://boilerpro.co
 - FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
 
@@ -84,7 +97,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 ## NestJs (Typescript)
 
 - Launchnow https://www.launchnow.pro/
-- ShipFast - https://shipfa.st/
 
 ## Symfony (PHP)
 
@@ -94,6 +106,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
+- supastarter for SvelteKit - https://supastarter.dev/sveltekit
 - SvelteLaunch - https://sveltelaunch.io
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
 - FastestEngineer - https://fastest.engineer
@@ -116,6 +129,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - YaSaas https://github.com/roperi/yasaas/
 - TheDevStarter https://thedevstarter.com/
 - djangorocket - https://github.com/ernestofgonzalez/djangorocket
+- Django SaaS **(Open source)**: https://github.com/PaulleDemon/Django-SAAS-Boilerplate
 
 ## Flask (Python)
 
@@ -159,13 +173,20 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - Usenextbase - https://usenextbase.com
 - SaasRock - https://saasrock.com
 - All-In-One Next & React Native Starter https://allinonedev.com
+- supastarter for Next.js - https://supastarter.dev/nextjs
+- ShipFast - https://shipfa.st/
+- AI SaaS Boilerplate - https://appliful.com/
+- NextSaaS - All-In-One Boilerplate with build-in CMS [https://nextsaas.live](https://nextsaas.live)
 - Open Source Next.js SaaS Kit [saaskit.one](https://saaskit.one/)
 - BoilerPro - https://boilerpro.co
 - AI Next.js MVP Builder [nextwrapper.com](https://nextwrapper.com/)
 
 ## React Native
 
-- All-In-One Next & React Native Starter https://allinonedev.com
+- React Native Boilerplate - Build SaaS for iOS, Android and Web https://reactnativeboilerplate.com
+- All-In-One Next & React Native Startr https://allinonedev.com
+- SupaWrapper - RN Starter for AI apps https://supawrapper.com
+- LaunchYourApp | React Native Boilerplate - https://launchyourapp.dev/
 
 ## Rare
 
@@ -177,6 +198,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 ## Remix
 
+- LaunchFast.pro https://launchfast.pro/
 - OneMix by SaaS King - https://saask.ing
 
 ## Ionic Framework
@@ -186,3 +208,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 ## AWS
 
 - BoilerPro - https://boilerpro.co
+
+## Firebase
+
+- SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
