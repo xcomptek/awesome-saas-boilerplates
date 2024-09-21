@@ -157,6 +157,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 ## Go
 
 - Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
+- GoShip: HTMX, Templ, Tailwind with all the essentials for your SAAS, AI tools or web apps. https://goship.run/ 
 - SaaS Startup Kit. Golang. **Open Source**. https://saasstartupkit.com/
 
 ## Next.js
