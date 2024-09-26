@@ -3,6 +3,7 @@ List of SaaS boilerplates (starter kits) by stack
 **Looking for collaboration!**
 
 This repo is gaining a lot of attention and I want to improve it:
+
 - add a rating system
 - prune dead links
 - remove duplicates
@@ -10,15 +11,15 @@ This repo is gaining a lot of attention and I want to improve it:
 
 Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
-*Did I miss something? Do you have a boilerplate to share? -> create a PR*
+_Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 ## Flutter (Dart)
 
 - Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
 
 ## iOS (Swift / SwiftUI)
-- Swift Maker - https://swiftmaker.dev/
 
+- Swift Maker - https://swiftmaker.dev/
 
 ## Ruby on Rails
 
@@ -44,7 +45,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Rocket App https://rocketapp.me/
 - Turbojet https://www.turbojet.co/
 - SaaS Starter. **Open Source**. https://github.com/cedrickchee/saas-starter
-- SaaStr. **Open Source****. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate
+- SaaStr. **Open Source\*\***. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate
 - ULTIMATE BACKEND. **Open Source**. https://github.com/juicycleff/ultimate-backend
 - SaaSgear. **Open Source**. https://github.com/JSLancerTeam/saasgear
 - Nextless JS https://nextlessjs.com
@@ -76,7 +77,6 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - BoilerPro - https://boilerpro.co
 - FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
 
-
 ## Laravel (PHP)
 
 - Streamline https://streamlinelaravel.com
@@ -91,7 +91,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Wave https://devdojo.com/wave
 - Nana https://saasstarterkit.app/
 - Tenancy https://tenancyforlaravel.com/saas-boilerplate/
-- saas-boilerplate. **Open Source*. https://github.com/miracuthbert/saas-boilerplate
+- saas-boilerplate. \*_Open Source_. https://github.com/miracuthbert/saas-boilerplate
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 
 ## NestJs (Typescript)
@@ -111,19 +111,17 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
 - FastestEngineer - https://fastest.engineer
 
-
 ## WordPress (PHP)
 
 - Underscores, a starter theme - https://underscores.me/
 - WPPB, plugin boilerplate generator - https://wppb.me/
-
 
 ## Django (Python)
 
 - Ready SaaS https://www.readysaas.app/
 - SaaSitive https://saasitive.com
 - SaaS Pegasus https://www.saaspegasus.com/
-- Djaodjin. ****Open Source***. https://djaodjin.com/
+- Djaodjin. \***_Open Source_**. https://djaodjin.com/
 - Carrot Seed https://www.cnc.io/en/seed
 - The SaaS boilerplate by Apptension (+React) https://www.apptension.com/saas-boilerplate
 - Vanty Starter Kit https://www.advantch.com/
@@ -135,7 +133,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 ## Flask (Python)
 
-- SaaS Forge. ***Open Source**. https://www.saasforge.dev/
+- SaaS Forge. **\*Open Source**. https://www.saasforge.dev/
 - Ignite (SaaS Boilerplate). Commercial (source available). https://github.com/sumukh/ignite
 - Flask App Builder. **Open Source**. https://github.com/dpgaspar/Flask-AppBuilder
 - Build a SAAS App with Flask. Course / Boilerplate. https://buildasaasappwithflask.com/
@@ -170,9 +168,9 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Next 14 FullStack SaaS Boilerplate - https://thesaasfactory.dev
 - LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
 - Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
-- NextJS 14 SaaS Starter with Lucia and Stripe  https://github.com/juliankoehn/nextjs-saas-starter
+- NextJS 14 SaaS Starter with Lucia and Stripe https://github.com/juliankoehn/nextjs-saas-starter
 - Nextacular. Open Source. https://nextacular.co
-- Usenextbase -  https://usenextbase.com
+- Usenextbase - https://usenextbase.com
 - SaasRock - https://saasrock.com
 - All-In-One Next & React Native Starter https://allinonedev.com
 - supastarter for Next.js - https://supastarter.dev/nextjs
@@ -181,7 +179,7 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - NextSaaS - All-In-One Boilerplate with build-in CMS [https://nextsaas.live](https://nextsaas.live)
 - Open Source Next.js SaaS Kit [saaskit.one](https://saaskit.one/)
 - BoilerPro - https://boilerpro.co
-
+- AI Next.js MVP Builder [nextwrapper.com](https://nextwrapper.com/)
 
 ## React Native
 
@@ -190,8 +188,8 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - SupaWrapper - RN Starter for AI apps https://supawrapper.com
 - LaunchYourApp | React Native Boilerplate - https://launchyourapp.dev/
 
-
 ## Rare
+
 - SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
 - PySaaS. Python + Pynecone https://pysaas.io/
 - Serverless SaaS. React. https://serverless.page
@@ -208,7 +206,9 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 - Ionstarter - https://ionstarter.dev/
 
 ## AWS
+
 - BoilerPro - https://boilerpro.co
 
 ## Firebase
+
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
