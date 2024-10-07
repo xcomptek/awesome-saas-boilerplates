@@ -80,6 +80,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - shadcn/pro SaaS starter kit - https://shadcnpro.com/
 - BoilerPro - https://boilerpro.co
 - FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
+- NextReady - https://nextready.dev
 
 ## Laravel (PHP)
 
@@ -160,7 +161,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 ## Go
 
 - Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
-- GoShip: HTMX, Templ, Tailwind with all the essentials for your SAAS, AI tools or web apps. https://goship.run/ 
+- GoShip: HTMX, Templ, Tailwind with all the essentials for your SAAS, AI tools or web apps. https://goship.run/
 - SaaS Startup Kit. Golang. **Open Source**. https://saasstartupkit.com/
 
 ## Next.js
