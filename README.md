@@ -104,6 +104,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 ## NestJs (Typescript)
 
 - Launchnow https://www.launchnow.pro/
+- SYNDROM (Angular/NestJS Boilerplate) https://syndrom.io/
 
 ## Symfony (PHP)
 
