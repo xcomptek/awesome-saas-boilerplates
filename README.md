@@ -223,6 +223,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 ## Ionic Framework
 
 - Ionstarter - https://ionstarter.dev/
+- IonFast, framework-agnostic Ionic boilerplate - https://ionic-template.com
 
 ## AWS
 
