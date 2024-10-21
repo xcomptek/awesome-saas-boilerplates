@@ -157,6 +157,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 ## .NET (ASP.NET Core / .NET 6+)
 
+- Breakneck .NET API with FastEndpoints. https://breakneck.dev
 - ASP.NET Zero. .NET. https://aspnetzero.com/
 - fullstackhero .NET 7 Web API Boilerplate. https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/
 
