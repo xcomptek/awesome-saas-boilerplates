@@ -42,6 +42,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 ## Node.js (Javascript)
 
+- Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
 - Builderkit.ai - AI Boilerplate that allows you to ship an AI App super fast - [https://www.builderkit.ai](https://www.builderkit.ai)
 - TurboStarter https://turbostarter.dev
 - React SaaS - Free and open source SaaS Boilerplate https://react-saas.com/
@@ -174,6 +175,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 ## Next.js
 
+- Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
 - Builderkit.ai - Highly modular NextJS AI Boilerplate that allows you to ship an AI App super fast - [https://www.builderkit.ai](https://www.builderkit.ai)
 - TurboStarter https://turbostarter.dev
 - NextJSDirectory - Boilerplate to build directories in minutes https://nextjsdirectory.com/
