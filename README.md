@@ -42,6 +42,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 ## Node.js (Javascript)
 
+- SaaSphere - NextJS, Feature rich, cheap alternative to other expensive boilerplates - https://saasphere.dev
 - Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
 - Builderkit.ai - AI Boilerplate that allows you to ship an AI App super fast - [https://www.builderkit.ai](https://www.builderkit.ai)
 - TurboStarter https://turbostarter.dev
