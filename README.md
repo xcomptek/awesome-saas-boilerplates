@@ -199,6 +199,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - Open Source Next.js SaaS Kit [saaskit.one](https://saaskit.one/)
 - BoilerPro - https://boilerpro.co
 - AI Next.js MVP Builder [nextwrapper.com](https://nextwrapper.com/)
+- StartFast - Free minimalistic SaaS starter kit with a feature-rich Pro version [startfast.cc](https://startfast.cc)
 
 ## React Native
 
