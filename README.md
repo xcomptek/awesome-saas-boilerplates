@@ -145,6 +145,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - TheDevStarter https://thedevstarter.com/
 - djangorocket - https://github.com/ernestofgonzalez/djangorocket
 - Django SaaS **(Open source)**: https://github.com/PaulleDemon/Django-SAAS-Boilerplate
+- ShipWithDjango https://shipwithdjango.com/
 
 ## Flask (Python)
 
