@@ -17,6 +17,10 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 - Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
 
+## JetShip Laravel SaaS Boilerplate
+
+- JetShip Boilerplate - [https://demos.themeselection.com/jetship-laravel-boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
+
 ## Kotlin
 
 - KAppMaker (Kotlin Multiplatform Boilerplate) - [https://kappmaker.com](https://kappmaker.com/?utm_source=awesome-saas-boilerplates)
