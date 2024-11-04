@@ -119,6 +119,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - BoilerPro - https://boilerpro.co
 - AI Next.js MVP Builder [nextwrapper.com](https://nextwrapper.com/)
 - Ship fast Stay Robuste.[robuste.dev](https://robuste.dev)
+- StartFast - Free minimalistic SaaS starter kit with a feature-rich Pro version [startfast.cc](https://startfast.cc)
 
 ## React Native
 
