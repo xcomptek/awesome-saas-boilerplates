@@ -131,6 +131,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - LaunchYourApp | React Native Boilerplate - https://launchyourapp.dev/
 
 ## Other 
+- Extro - Open source browser extension starter kit 🧩 https://github.com/turbostarter/extro
 - Serverless SaaS. React. https://serverless.page
 - TurboStarter https://turbostarter.dev
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
