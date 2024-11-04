@@ -13,38 +13,25 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
-## Flutter (Dart)
-
-- Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
-
-## JetShip Laravel SaaS Boilerplate
-
-- JetShip Boilerplate - [https://demos.themeselection.com/jetship-laravel-boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
+# JVM
 
 ## Kotlin
 
 - KAppMaker (Kotlin Multiplatform Boilerplate) - [https://kappmaker.com](https://kappmaker.com/?utm_source=awesome-saas-boilerplates)
-
-## Jetpack Compose (Kotlin)
-
 - Compose101 - https://compose101.com/
 
-## iOS (Swift / SwiftUI)
+## Java
 
-- Swift Maker - https://swiftmaker.dev/
+- Openkoda (Java, Spring, Javascript, GraalVM). Open-source. Pre-built application templates. https://github.com/openkoda/openkoda
 
-## Ruby on Rails
+# Javascript/Typescript
 
-- Bullet Train https://bullettrain.co
-- Jumpstart Rails https://jumpstartrails.com/
-- Sjabloon https://www.getsjabloon.com/
-- Rails Tabler Starter https://github.com/tarunvelli/rails-tabler-starter
+## NestJs 
 
-## Vue
+- Launchnow https://www.launchnow.pro/
+- SYNDROM (Angular/NestJS Boilerplate) https://syndrom.io/
 
-- Quapp: Quasar + Appwrite Full stack Quality Application Framework https://www.quapp.dev/
-
-## Node.js (Javascript)
+## Node.js
 
 - SaaSphere - NextJS, Feature rich, cheap alternative to other expensive boilerplates - https://saasphere.dev
 - Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
@@ -94,34 +81,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
 - NextReady - https://nextready.dev
 
-## Laravel (PHP)
-
-- Streamline https://streamlinelaravel.com
-- Laravel Spark https://spark.laravel.com
-- RapidSaaS Conduit - https://rapidsaas.dev
-- Larafast https://larafast.com
-- Electrik - Saas Starter Kit https://github.com/electrikhq/electrik
-- SaaSWeb https://codecanyon.net/item/saasweb-laravel-58-vue-saas-starter-kit/24302103
-- SaaSykit - https://saasykit.com/
-- Larakits https://larakits.com/
-- SaaS Starter Kit https://saasstarterkit.app
-- Artiplate - https://artiplate.co/
-- Wave https://devdojo.com/wave
-- Nana https://saasstarterkit.app/
-- Tenancy https://tenancyforlaravel.com/saas-boilerplate/
-- saas-boilerplate. \*_Open Source_. https://github.com/miracuthbert/saas-boilerplate
-- Velocity https://pastaduck.gumroad.com/l/chbnv
-
-## NestJs (Typescript)
-
-- Launchnow https://www.launchnow.pro/
-- SYNDROM (Angular/NestJS Boilerplate) https://syndrom.io/
-
-## Symfony (PHP)
-
-- Parthenon **Open Source** - https://getparthenon.com
-
-## SvelteKit (Javascript)
+## SvelteKit
 
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - Just Ship - https://justship.today
@@ -130,54 +90,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
 - FastestEngineer - https://fastest.engineer
 
-## WordPress (PHP)
-
-- Underscores, a starter theme - https://underscores.me/
-- WPPB, plugin boilerplate generator - https://wppb.me/
-
-## Django (Python)
-
-- Ready SaaS https://www.readysaas.app/
-- SaaSitive https://saasitive.com
-- SaaS Pegasus https://www.saaspegasus.com/
-- Djaodjin. \***_Open Source_**. https://djaodjin.com/
-- Carrot Seed https://www.cnc.io/en/seed
-- The SaaS boilerplate by Apptension (+React) https://www.apptension.com/saas-boilerplate
-- Vanty Starter Kit https://www.advantch.com/
-- Saas Hammer https://saashammer.com/
-- YaSaas https://github.com/roperi/yasaas/
-- TheDevStarter https://thedevstarter.com/
-- djangorocket - https://github.com/ernestofgonzalez/djangorocket
-- Django SaaS **(Open source)**: https://github.com/PaulleDemon/Django-SAAS-Boilerplate
-- ShipWithDjango https://shipwithdjango.com/
-
-## Flask (Python)
-
-- SaaS Forge. **\*Open Source**. https://www.saasforge.dev/
-- Ignite (SaaS Boilerplate). Commercial (source available). https://github.com/sumukh/ignite
-- Flask App Builder. **Open Source**. https://github.com/dpgaspar/Flask-AppBuilder
-- Build a SAAS App with Flask. Course / Boilerplate. https://buildasaasappwithflask.com/
-- Enferno Frameowrk: **Open Source** . https://enferno.io/
-
-## FastAPI (Python)
-
-- GeniePy SaaS starter codebase. https://geniepy.com/
-
-## .NET (ASP.NET Core / .NET 6+)
-
-- Breakneck .NET API with FastEndpoints. https://breakneck.dev
-- ASP.NET Zero. .NET. https://aspnetzero.com/
-- fullstackhero .NET 7 Web API Boilerplate. https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/
-
-## Java
-
-- Openkoda (Java, Spring, Javascript, GraalVM). Open-source. Pre-built application templates. https://github.com/openkoda/openkoda
-
-## Go
-
-- Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
-- GoShip: HTMX, Templ, Tailwind with all the essentials for your SAAS, AI tools or web apps. https://goship.run/
-- SaaS Startup Kit. Golang. **Open Source**. https://saasstartupkit.com/
+# React
 
 ## Next.js
 
@@ -216,17 +129,101 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - SupaWrapper - RN Starter for AI apps https://supawrapper.com
 - LaunchYourApp | React Native Boilerplate - https://launchyourapp.dev/
 
-## Plasmo (React)
-
-- TurboStarter https://turbostarter.dev
-
-## Rare
-
-- SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
-- PySaaS. Python + Pynecone https://pysaas.io/
+## Other 
 - Serverless SaaS. React. https://serverless.page
+- TurboStarter https://turbostarter.dev
+- SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
+
+
+# PHP
+
+## Laravel
+
+- Streamline https://streamlinelaravel.com
+- Laravel Spark https://spark.laravel.com
+- RapidSaaS Conduit - https://rapidsaas.dev
+- Larafast https://larafast.com
+- Electrik - Saas Starter Kit https://github.com/electrikhq/electrik
+- SaaSWeb https://codecanyon.net/item/saasweb-laravel-58-vue-saas-starter-kit/24302103
+- SaaSykit - https://saasykit.com/
+- Larakits https://larakits.com/
+- SaaS Starter Kit https://saasstarterkit.app
+- Artiplate - https://artiplate.co/
+- Wave https://devdojo.com/wave
+- Nana https://saasstarterkit.app/
+- Tenancy https://tenancyforlaravel.com/saas-boilerplate/
+- saas-boilerplate. \*_Open Source_. https://github.com/miracuthbert/saas-boilerplate
+- Velocity https://pastaduck.gumroad.com/l/chbnv
+- JetShip Boilerplate - [https://demos.themeselection.com/jetship-laravel-boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
+
+## Symfony
+
+- Parthenon **Open Source** - https://getparthenon.com
+
+## WordPress
+
+- Underscores, a starter theme - https://underscores.me/
+- WPPB, plugin boilerplate generator - https://wppb.me/
+
+
+
+# Python
+
+## Django
+
+- Ready SaaS https://www.readysaas.app/
+- SaaSitive https://saasitive.com
+- SaaS Pegasus https://www.saaspegasus.com/
+- Djaodjin. \***_Open Source_**. https://djaodjin.com/
+- Carrot Seed https://www.cnc.io/en/seed
+- The SaaS boilerplate by Apptension (+React) https://www.apptension.com/saas-boilerplate
+- Vanty Starter Kit https://www.advantch.com/
+- Saas Hammer https://saashammer.com/
+- YaSaas https://github.com/roperi/yasaas/
+- TheDevStarter https://thedevstarter.com/
+- djangorocket - https://github.com/ernestofgonzalez/djangorocket
+- Django SaaS **(Open source)**: https://github.com/PaulleDemon/Django-SAAS-Boilerplate
+- ShipWithDjango https://shipwithdjango.com/
+
+## Flask
+
+- SaaS Forge. **\*Open Source**. https://www.saasforge.dev/
+- Ignite (SaaS Boilerplate). Commercial (source available). https://github.com/sumukh/ignite
+- Flask App Builder. **Open Source**. https://github.com/dpgaspar/Flask-AppBuilder
+- Build a SAAS App with Flask. Course / Boilerplate. https://buildasaasappwithflask.com/
+- Enferno Frameowrk: **Open Source** . https://enferno.io/
+
+## Other
+
+- GeniePy SaaS starter codebase. https://geniepy.com/
+- PySaaS. Python + Pynecone https://pysaas.io/
 - GeniePy (Python & Starlette) https://geniepy.com
-- Nuxt Starter AI - https://nuxtstarter.ai
+
+
+
+# Other
+
+## .NET (ASP.NET Core / .NET 6+)
+
+- Breakneck .NET API with FastEndpoints. https://breakneck.dev
+- ASP.NET Zero. .NET. https://aspnetzero.com/
+- fullstackhero .NET 7 Web API Boilerplate. https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/
+
+
+## Go
+
+- Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
+- GoShip: HTMX, Templ, Tailwind with all the essentials for your SAAS, AI tools or web apps. https://goship.run/
+- SaaS Startup Kit. Golang. **Open Source**. https://saasstartupkit.com/
+
+
+## Ruby on Rails
+
+- Bullet Train https://bullettrain.co
+- Jumpstart Rails https://jumpstartrails.com/
+- Sjabloon https://www.getsjabloon.com/
+- Rails Tabler Starter https://github.com/tarunvelli/rails-tabler-starter
+
 
 ## Remix
 
@@ -238,10 +235,18 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - Ionstarter - https://ionstarter.dev/
 - IonFast, framework-agnostic Ionic boilerplate - https://ionic-template.com
 
-## AWS
 
+# Rare frameworks
+
+- SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
+- Nuxt Starter AI - https://nuxtstarter.ai
+- Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
 - BoilerPro - https://boilerpro.co
+- Swift Maker - https://swiftmaker.dev/
+- Quapp: Quasar + Appwrite Full stack Quality Application Framework https://www.quapp.dev/
 
-## Firebase
 
-- SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
+
+
+
+
