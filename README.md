@@ -237,7 +237,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - IonFast, framework-agnostic Ionic boilerplate - https://ionic-template.com
 
 # Rare frameworks
-
+- Extro - Open source browser extension starter kit 🧩 https://github.com/turbostarter/extro
 - SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
 - Nuxt Starter AI - https://nuxtstarter.ai
 - Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
