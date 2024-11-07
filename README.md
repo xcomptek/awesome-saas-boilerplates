@@ -1,23 +1,9 @@
 List of SaaS boilerplates (starter kits) by stack
 
-**Looking for collaboration!**
-
-This repo is gaining a lot of attention and I want to improve it:
-
-- add a rating system
-- prune dead links
-- remove duplicates
-- improve catalogization (tech, features, etc)
-
-Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
+_Browse/filter by tech stack and rate -> https://xcomptek.com/awesome-saas-boilerplates/_
 
 _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
-# Deployment & Infrastructure
-
-## Terraform
-
-- DeployFast - Deploy Next.js on AWS in one command, with no cold starts and seamless scaling. https://deployfast.cloud
 
 # JVM
 
@@ -239,3 +225,10 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - BoilerPro - https://boilerpro.co
 - Swift Maker - https://swiftmaker.dev/
 - Quapp: Quasar + Appwrite Full stack Quality Application Framework https://www.quapp.dev/
+
+# Deployment & Infrastructure
+
+## Terraform
+
+- DeployFast - Deploy Next.js on AWS in one command, with no cold starts and seamless scaling. https://deployfast.cloud
+
