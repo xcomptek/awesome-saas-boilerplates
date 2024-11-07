@@ -45,12 +45,9 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - TurboStarter https://turbostarter.dev
 - React SaaS - Free and open source SaaS Boilerplate https://react-saas.com/
 - OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
-- BoilerCode - SaaS Boilerplate [https://boilercode.co/](https://boilercode.co/?utm_source=awesome-saas-boilerplates)
 - Scale Safe [https://scalesafe.app/](https://scalesafe.app/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - Gravity https://usegravity.app/
-- MERNKIT https://mernkit.com/
 - Nodewood https://nodewood.com/
-- Boostack.io. **open-source** https://boostack.io/
 - Rocket App https://rocketapp.me/
 - Turbojet https://www.turbojet.co/
 - SaaS Starter. **Open Source**. https://github.com/cedrickchee/saas-starter
@@ -59,7 +56,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - SaaSgear. **Open Source**. https://github.com/JSLancerTeam/saasgear
 - Nextless JS https://nextlessjs.com
 - Divjoy https://divjoy.com
-- Remixtape https://remixtape.dev
 - Nextacular. **Open Source**. https://nextacular.co
 - AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template
 - Volca https://volca.io
@@ -154,7 +150,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - Electrik - Saas Starter Kit https://github.com/electrikhq/electrik
 - SaaSWeb https://codecanyon.net/item/saasweb-laravel-58-vue-saas-starter-kit/24302103
 - SaaSykit - https://saasykit.com/
-- Larakits https://larakits.com/
 - SaaS Starter Kit https://saasstarterkit.app
 - Artiplate - https://artiplate.co/
 - Wave https://devdojo.com/wave
