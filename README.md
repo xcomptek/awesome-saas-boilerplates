@@ -13,6 +13,12 @@ Hit me up on LinkedIn https://www.linkedin.com/in/smirnovam/
 
 _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
+# Deployment & Infrastructure
+
+## Terraform
+
+- DeployFast - Deploy Next.js on AWS in one command, with no cold starts and seamless scaling. https://deployfast.cloud
+
 # JVM
 
 ## Kotlin
@@ -26,7 +32,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 # Javascript/Typescript
 
-## NestJs 
+## NestJs
 
 - Launchnow https://www.launchnow.pro/
 - SYNDROM (Angular/NestJS Boilerplate) https://syndrom.io/
@@ -130,11 +136,11 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - SupaWrapper - RN Starter for AI apps https://supawrapper.com
 - LaunchYourApp | React Native Boilerplate - https://launchyourapp.dev/
 
-## Other 
+## Other
+
 - Serverless SaaS. React. https://serverless.page
 - TurboStarter https://turbostarter.dev
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
-
 
 # PHP
 
@@ -165,8 +171,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 
 - Underscores, a starter theme - https://underscores.me/
 - WPPB, plugin boilerplate generator - https://wppb.me/
-
-
 
 # Python
 
@@ -200,8 +204,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - PySaaS. Python + Pynecone https://pysaas.io/
 - GeniePy (Python & Starlette) https://geniepy.com
 
-
-
 # Other
 
 ## .NET (ASP.NET Core / .NET 6+)
@@ -210,13 +212,11 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - ASP.NET Zero. .NET. https://aspnetzero.com/
 - fullstackhero .NET 7 Web API Boilerplate. https://fullstackhero.net/dotnet-webapi-boilerplate/general/getting-started/
 
-
 ## Go
 
 - Autostrada. [https://autostrada.dev/](https://autostrada.dev/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - GoShip: HTMX, Templ, Tailwind with all the essentials for your SAAS, AI tools or web apps. https://goship.run/
 - SaaS Startup Kit. Golang. **Open Source**. https://saasstartupkit.com/
-
 
 ## Ruby on Rails
 
@@ -224,7 +224,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - Jumpstart Rails https://jumpstartrails.com/
 - Sjabloon https://www.getsjabloon.com/
 - Rails Tabler Starter https://github.com/tarunvelli/rails-tabler-starter
-
 
 ## Remix
 
@@ -236,7 +235,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - Ionstarter - https://ionstarter.dev/
 - IonFast, framework-agnostic Ionic boilerplate - https://ionic-template.com
 
-
 # Rare frameworks
 
 - SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
@@ -245,9 +243,3 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR_
 - BoilerPro - https://boilerpro.co
 - Swift Maker - https://swiftmaker.dev/
 - Quapp: Quasar + Appwrite Full stack Quality Application Framework https://www.quapp.dev/
-
-
-
-
-
-
