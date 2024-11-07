@@ -2,7 +2,7 @@ List of SaaS boilerplates (starter kits) by stack
 
 _Browse/filter by tech stack and rate -> https://xcomptek.com/awesome-saas-boilerplates/_
 
-_Did I miss something? Do you have a boilerplate to share? -> create a PR_
+_Did I miss something? Do you have a boilerplate to share? -> create a PR ([How to?](https://kbroman.org/github_tutorial/pages/fork.html))_
 
 
 # JVM
