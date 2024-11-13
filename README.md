@@ -78,10 +78,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
 - FastestEngineer - https://fastest.engineer
 
-## SolidStart
-
-- QuickStart: https://www.quickstartjs.com/
-
 # React
 
 ## Next.js
@@ -113,7 +109,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - AI Next.js MVP Builder [nextwrapper.com](https://nextwrapper.com/)
 - Ship fast Stay Robuste.[robuste.dev](https://robuste.dev)
 - StartFast - Free minimalistic SaaS starter kit with a feature-rich Pro version [startfast.cc](https://startfast.cc)
-- QuickStart - https://www.quickstartjs.com/
 
 ## React Native
 
