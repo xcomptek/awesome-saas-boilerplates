@@ -52,6 +52,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Modern MERN - https://modernmern.com
 - Makerkit - https://makerkit.dev
 - salable - https://github.com/Salable/nextjs-with-salable
+- Launchway - https://www.launchway.dev/ 
 - SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas
 - Graphile Starter - https://github.com/graphile/starter
 - ALPack by Apptension - https://github.com/apptension/ALPack
@@ -211,6 +212,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - LaunchFast.pro https://launchfast.pro/
 - OneMix by SaaS King - https://saask.ing
+- Launchway - https://www.launchway.dev/ 
 
 ## Ionic Framework
 
