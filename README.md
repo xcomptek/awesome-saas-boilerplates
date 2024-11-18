@@ -98,6 +98,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Next Starter AI - https://nextstarter.ai
 - Next 14 FullStack SaaS Boilerplate - https://thesaasfactory.dev
 - LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
+- StartupBolt - NextJS Saas Boilerplate [https://www.startupbolt.com](https://www.startupbolt.com/?utm_source=awesome-saas-boilerplates)
 - Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
 - NextJS 14 SaaS Starter with Lucia and Stripe https://github.com/juliankoehn/nextjs-saas-starter
 - Nextacular. Open Source. https://nextacular.co
