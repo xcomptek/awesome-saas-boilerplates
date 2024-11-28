@@ -226,10 +226,14 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Ionstarter - https://ionstarter.dev/
 - IonFast, framework-agnostic Ionic boilerplate - https://ionic-template.com
 
-# Rare frameworks
-- Extro - Open source browser extension starter kit 🧩 https://github.com/turbostarter/extro
+# Nuxt
+
 - SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
 - Nuxt Starter AI - https://nuxtstarter.ai
+- SaaS-Boilerplate.dev (TypeScript, Production-Ready) - https://saas-boilerplate.dev
+
+# Rare frameworks
+- Extro - Open source browser extension starter kit 🧩 https://github.com/turbostarter/extro
 - Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
 - BoilerPro - https://boilerpro.co
 - Swift Maker - https://swiftmaker.dev/
