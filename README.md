@@ -179,6 +179,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - djangorocket - https://github.com/ernestofgonzalez/djangorocket
 - Django SaaS **(Open source)**: https://github.com/PaulleDemon/Django-SAAS-Boilerplate
 - ShipWithDjango https://shipwithdjango.com/
+- Django Launch | The Django boilerplate to launch your SaaS quickly with everything you need to make your first $ online. : https://djangolaun.ch
 
 ## Flask
 
