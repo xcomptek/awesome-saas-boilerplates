@@ -25,6 +25,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Node.js
 
+- ShipMySaaS - Powerful, secure, and easy to use SaaS boilerplate - [https://shipmysaas.com](https://shipmysaas.com)
 - SaaSphere - NextJS, Feature rich, cheap alternative to other expensive boilerplates - https://saasphere.dev
 - Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
 - Builderkit.ai - AI Boilerplate that allows you to ship an AI App super fast - [https://www.builderkit.ai](https://www.builderkit.ai)
@@ -52,7 +53,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Modern MERN - https://modernmern.com
 - Makerkit - https://makerkit.dev
 - salable - https://github.com/Salable/nextjs-with-salable
-- Launchway - https://www.launchway.dev/ 
+- Launchway - https://www.launchway.dev/
 - SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas
 - Graphile Starter - https://github.com/graphile/starter
 - ALPack by Apptension - https://github.com/apptension/ALPack
@@ -219,7 +220,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - LaunchFast.pro https://launchfast.pro/
 - OneMix by SaaS King - https://saask.ing
-- Launchway - https://www.launchway.dev/ 
+- Launchway - https://www.launchway.dev/
 
 ## Ionic Framework
 
@@ -244,4 +245,3 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Terraform
 
 - DeployFast - Deploy Next.js on AWS in one command, with no cold starts and seamless scaling. https://deployfast.cloud
-
