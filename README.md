@@ -180,7 +180,9 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - djangorocket - https://github.com/ernestofgonzalez/djangorocket
 - Django SaaS **(Open source)**: https://github.com/PaulleDemon/Django-SAAS-Boilerplate
 - ShipWithDjango https://shipwithdjango.com/
+- Django Launch https://djangolaun.ch
 - PyBoilerplate https://www.pyboilerplate.com/
+
 
 ## Flask
 
