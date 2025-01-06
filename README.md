@@ -4,7 +4,6 @@ _Browse/filter by tech stack and rate -> https://xcomptek.com/awesome-saas-boile
 
 _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How to?](https://kbroman.org/github_tutorial/pages/fork.html))_
 
-
 # JVM
 
 ## Kotlin
@@ -153,6 +152,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - saas-boilerplate. \*_Open Source_. https://github.com/miracuthbert/saas-boilerplate
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 - JetShip Boilerplate - [https://demos.themeselection.com/jetship-laravel-boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
+- Butchr - https://butchr.dev
 
 ## Symfony
 
@@ -237,6 +237,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SaaS-Boilerplate.dev (TypeScript, Production-Ready) - https://saas-boilerplate.dev
 
 # Rare frameworks
+
 - Extro - Open source browser extension starter kit 🧩 https://github.com/turbostarter/extro
 - Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
 - BoilerPro - https://boilerpro.co
