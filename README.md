@@ -117,6 +117,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - StartFast - Free minimalistic SaaS starter kit with a feature-rich Pro version [startfast.cc](https://startfast.cc)
 - QuickStart - https://www.quickstartjs.com/
 - Mkdirs - The best directory template, launch profitable directory website in minutes. [mkdirs.com](https://mkdirs.com)
+- Shaker's Kit - SaaS Starter Kit for Entrepreneurs [shakersk.it](https://shakersk.it)
 
 ## React Native
 
