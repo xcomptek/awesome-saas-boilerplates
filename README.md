@@ -69,6 +69,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - BoilerPro - https://boilerpro.co
 - FastestEngineer SaaS boilerplate - [https://fastest.engineer](https://fastest.engineer)
 - NextReady - https://nextready.dev
+- Novel - Scalable, Production-Ready SaaS Foundation - https://novel.dev
 
 ## SvelteKit
 
