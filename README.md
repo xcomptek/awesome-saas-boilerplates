@@ -13,7 +13,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Java
 
-- Openkoda (Java, Spring, Javascript, GraalVM). Open-source. Pre-built application templates. https://github.com/openkoda/openkoda
+- Openkoda (Java, Spring, Javascript, GraalVM). Open-source. Pre-built application templates. [https://github.com/openkoda/openkoda](https://github.com/openkoda/openkoda) [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
 
 # Javascript/Typescript
 
@@ -36,27 +36,27 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Nodewood https://nodewood.com/
 - Rocket App https://rocketapp.me/
 - Turbojet https://www.turbojet.co/
-- SaaS Starter. **Open Source**. https://github.com/cedrickchee/saas-starter
-- SaaStr. **Open Source\*\***. https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate
-- ULTIMATE BACKEND. **Open Source**. https://github.com/juicycleff/ultimate-backend
-- SaaSgear. **Open Source**. https://github.com/JSLancerTeam/saasgear
+- SaaS Starter. **Open Source**. [https://github.com/cedrickchee/saas-starter](https://github.com/cedrickchee/saas-starter) [![Stars](https://img.shields.io/github/stars/cedrickchee/saas-starter.svg)](https://github.com/cedrickchee/saas-starter)
+- SaaStr. **Open Source**. [https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate) [![Stars](https://img.shields.io/github/stars/aloysius-tim/saas-react-starter-kit-boilerplate.svg)](https://github.com/aloysius-tim/saas-react-starter-kit-boilerplate)
+- ULTIMATE BACKEND. **Open Source**. [https://github.com/juicycleff/ultimate-backend](https://github.com/juicycleff/ultimate-backend) [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend)
+- SaaSgear. **Open Source**. [https://github.com/JSLancerTeam/saasgear](https://github.com/JSLancerTeam/saasgear) [![Stars](https://img.shields.io/github/stars/JSLancerTeam/saasgear.svg)](https://github.com/JSLancerTeam/saasgear)
 - Nextless JS https://nextlessjs.com
 - Divjoy https://divjoy.com
 - Nextacular. **Open Source**. https://nextacular.co
-- AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template
+- AWS + React SaaS Template. [https://github.com/SimonHoiberg/saas-template](https://github.com/SimonHoiberg/saas-template) [![Stars](https://img.shields.io/github/stars/SimonHoiberg/saas-template.svg)](https://github.com/SimonHoiberg/saas-template)
 - Volca https://volca.io
-- Enterprise-ready SaaS Starter Kit. **Open Source**. https://github.com/boxyhq/saas-starter-kit
+- Enterprise-ready SaaS Starter Kit. **Open Source**. [https://github.com/boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit)
 - Supastarter - https://supastarter.dev/
-- SAAS-Starter-Kit - https://github.com/Saas-Starter-Kit/Saas-Kit-prisma
+- SAAS-Starter-Kit - [https://github.com/Saas-Starter-Kit/Saas-Kit-prisma](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) [![Stars](https://img.shields.io/github/stars/Saas-Starter-Kit/Saas-Kit-prisma.svg)](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma)
 - Saas UI Pro - https://saas-ui.dev
 - Modern MERN - https://modernmern.com
-- Makerkit - https://makerkit.dev
-- salable - https://github.com/Salable/nextjs-with-salable
+- makerkit - https://makerkit.dev
+- salable - [https://github.com/Salable/nextjs-with-salable](https://github.com/Salable/nextjs-with-salable) [![Stars](https://img.shields.io/github/stars/Salable/nextjs-with-salable.svg)](https://github.com/Salable/nextjs-with-salable)
 - Launchway - https://www.launchway.dev/
-- SaaS Boilerplate by Async Labs - https://github.com/async-labs/saas
-- Graphile Starter - https://github.com/graphile/starter
-- ALPack by Apptension - https://github.com/apptension/ALPack
-- Sequelize - https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger
+- SaaS Boilerplate by Async Labs - [https://github.com/async-labs/saas](https://github.com/async-labs/saas) [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas)
+- Graphile Starter - [https://github.com/graphile/starter](https://github.com/graphile/starter) [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter)
+- ALPack by Apptension - [https://github.com/apptension/ALPack](https://github.com/apptension/ALPack) [![Stars](https://img.shields.io/github/stars/apptension/ALPack.svg)](https://github.com/apptension/ALPack)
+- Sequelize - [https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger](https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger) [![Stars](https://img.shields.io/github/stars/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger.svg)](https://github.com/umar0645/nodejs-sequelize-auth-boilerplate-with-swagger)
 - StarterSaaS Node + Go - https://www.startersaas.com/
 - marblism - https://www.marblism.com/
 - DirectoryKit - https://www.directorykit.xyz/
@@ -93,16 +93,16 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Builderkit.ai - Highly modular NextJS AI Boilerplate that allows you to ship an AI App super fast - [https://www.builderkit.ai](https://www.builderkit.ai)
 - TurboStarter https://turbostarter.dev
 - NextJSDirectory - Boilerplate to build directories in minutes https://nextjsdirectory.com/
-- Next.js Boilerplate - Free and **Open Source** Next.js Starter https://github.com/ixartz/Next-js-Boilerplate
-- Next.js Subscription Payments Starter by Vercel - https://github.com/vercel/nextjs-subscription-payments
-- Next.js Supabase Stripe Starter - https://github.com/KolbySisk/next-supabase-stripe-starter
+- Next.js Boilerplate - Free and **Open Source** Next.js Starter [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate)
+- Next.js Subscription Payments Starter by Vercel - [https://github.com/vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) [![Stars](https://img.shields.io/github/stars/vercel/nextjs-subscription-payments.svg)](https://github.com/vercel/nextjs-subscription-payments)
+- Next.js Supabase Stripe Starter - [https://github.com/KolbySisk/next-supabase-stripe-starter](https://github.com/KolbySisk/next-supabase-stripe-starter) [![Stars](https://img.shields.io/github/stars/KolbySisk/next-supabase-stripe-starter.svg)](https://github.com/KolbySisk/next-supabase-stripe-starter)
 - Bedrock. Next.js. https://bedrock.mxstbr.com/
 - Next Starter AI - https://nextstarter.ai
 - Next 14 FullStack SaaS Boilerplate - https://thesaasfactory.dev
 - LaunchFa.st - Astro SaaS Boilerplate [https://launchfa.st/](https://launchfa.st/?utm_source=awesome-saas-boilerplates)
 - StartupBolt - NextJS Saas Boilerplate [https://www.startupbolt.com](https://www.startupbolt.com/?utm_source=awesome-saas-boilerplates)
 - Shipped — Next.js Startup Kit [https://shipped.club/](https://shipped.club/?utm_source=awesome-saas-boilerplates)
-- NextJS 14 SaaS Starter with Lucia and Stripe https://github.com/juliankoehn/nextjs-saas-starter
+- NextJS 14 SaaS Starter with Lucia and Stripe [https://github.com/juliankoehn/nextjs-saas-starter](https://github.com/juliankoehn/nextjs-saas-starter) [![Stars](https://img.shields.io/github/stars/juliankoehn/nextjs-saas-starter.svg)](https://github.com/juliankoehn/nextjs-saas-starter)
 - Nextacular. Open Source. https://nextacular.co
 - Usenextbase - https://usenextbase.com
 - SaasRock - https://saasrock.com
@@ -151,7 +151,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Wave https://devdojo.com/wave
 - Nana https://saasstarterkit.app/
 - Tenancy https://tenancyforlaravel.com/saas-boilerplate/
-- saas-boilerplate. \*_Open Source_. https://github.com/miracuthbert/saas-boilerplate
+- saas-boilerplate. \*_Open Source_. [https://github.com/miracuthbert/saas-boilerplate](https://github.com/miracuthbert/saas-boilerplate) [![Stars](https://img.shields.io/github/stars/miracuthbert/saas-boilerplate.svg)](https://github.com/miracuthbert/saas-boilerplate)
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 - JetShip Boilerplate - [https://demos.themeselection.com/jetship-laravel-boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
 - Butchr - https://butchr.dev
@@ -180,7 +180,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - YaSaas https://github.com/roperi/yasaas/
 - TheDevStarter https://thedevstarter.com/
 - djangorocket - https://github.com/ernestofgonzalez/djangorocket
-- Django SaaS **(Open source)**: https://github.com/PaulleDemon/Django-SAAS-Boilerplate
+- Django SaaS **(Open source)**: [https://github.com/PaulleDemon/Django-SAAS-Boilerplate](https://github.com/PaulleDemon/Django-SAAS-Boilerplate) [![Stars](https://img.shields.io/github/stars/PaulleDemon/Django-SAAS-Boilerplate.svg)](https://github.com/PaulleDemon/Django-SAAS-Boilerplate)
 - ShipWithDjango https://shipwithdjango.com/
 - Django Launch https://djangolaun.ch
 - PyBoilerplate https://www.pyboilerplate.com/
@@ -190,7 +190,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - SaaS Forge. **\*Open Source**. https://www.saasforge.dev/
 - Ignite (SaaS Boilerplate). Commercial (source available). https://github.com/sumukh/ignite
-- Flask App Builder. **Open Source**. https://github.com/dpgaspar/Flask-AppBuilder
+- Flask App Builder. **Open Source**. [https://github.com/dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) [![Stars](https://img.shields.io/github/stars/dpgaspar/Flask-AppBuilder.svg)](https://github.com/dpgaspar/Flask-AppBuilder)
 - Build a SAAS App with Flask. Course / Boilerplate. https://buildasaasappwithflask.com/
 - Enferno Frameowrk: **Open Source** . https://enferno.io/
 
@@ -234,13 +234,13 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 # Nuxt
 
-- SupaNuxt SaaS. Nuxt3. **Open Source**. https://github.com/JavascriptMick/supanuxt-saas
+- SupaNuxt SaaS. Nuxt3. **Open Source**. [https://github.com/JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) [![Stars](https://img.shields.io/github/stars/JavascriptMick/supanuxt-saas.svg)](https://github.com/JavascriptMick/supanuxt-saas)
 - Nuxt Starter AI - https://nuxtstarter.ai
 - SaaS-Boilerplate.dev (TypeScript, Production-Ready) - https://saas-boilerplate.dev
 
 # Rare frameworks
 
-- Extro - Open source browser extension starter kit 🧩 https://github.com/turbostarter/extro
+- Extro - Open source browser extension starter kit 🧩 [https://github.com/turbostarter/extro](https://github.com/turbostarter/extro) [![Stars](https://img.shields.io/github/stars/turbostarter/extro.svg)](https://github.com/turbostarter/extro)
 - Flutter Boilerplate - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
 - BoilerPro - https://boilerpro.co
 - Swift Maker - https://swiftmaker.dev/
