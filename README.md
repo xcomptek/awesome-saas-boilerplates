@@ -14,6 +14,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Java
 
 - Openkoda (Java, Spring, Javascript, GraalVM). Open-source. Pre-built application templates. [https://github.com/openkoda/openkoda](https://github.com/openkoda/openkoda) [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
+- easyShip pro - [easyShip.pro](https://www.easyship.pro)
 
 # Javascript/Typescript
 
