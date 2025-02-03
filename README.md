@@ -221,6 +221,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Jumpstart Rails https://jumpstartrails.com/
 - Sjabloon https://www.getsjabloon.com/
 - Rails Tabler Starter https://github.com/tarunvelli/rails-tabler-starter
+- Lightning Rails - [Ruby on Rails boilerplate for solopreneurs](https://lightningrails.com)
 
 ## Remix
 
