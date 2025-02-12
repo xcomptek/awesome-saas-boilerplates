@@ -13,16 +13,16 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Java
 
-- Springular (Java, Spring Boot, Angular, PostgreSQL, Tailwind CSS, Stripe, Coolify) [https://springular.io/](https://springular.io/)
-- Openkoda (Java, Spring, Javascript, GraalVM). Open-source. Pre-built application templates. [https://github.com/openkoda/openkoda](https://github.com/openkoda/openkoda) [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
+- Springular [https://springular.io/](https://springular.io/)
+- Openkoda [https://github.com/openkoda/openkoda](https://github.com/openkoda/openkoda) [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
 - easyShip pro - [easyShip.pro](https://www.easyship.pro)
 
 # Javascript/Typescript
 
 ## NestJs
 
-- Launchnow https://www.launchnow.pro/
-- SYNDROM (Angular/NestJS Boilerplate) https://syndrom.io/
+- Launchnow [https://www.launchnow.pro/](https://www.launchnow.pro/)
+- SYNDROM [https://syndrom.io/](https://syndrom.io/)
 
 ## Node.js
 
