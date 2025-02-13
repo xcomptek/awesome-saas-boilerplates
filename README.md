@@ -122,6 +122,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - QuickStart - https://www.quickstartjs.com/
 - Mkdirs - The best directory template, launch profitable directory website in minutes. [mkdirs.com](https://mkdirs.com)
 - Shaker's Kit - SaaS Starter Kit for Entrepreneurs [shakersk.it](https://shakersk.it)
+- NextUpKit - Affordable Next.js starter kit boilerplate - https://www.nextupkit.com 
 
 ## React Native
 
