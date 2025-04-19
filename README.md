@@ -126,7 +126,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - NextUpKit - Affordable Next.js starter kit boilerplate - https://www.nextupkit.com 
 - Kokonut Boilerplate - https://kokonut.dev/
 
-
 ## React Native
 
 - NativeExpress - https://native.express
