@@ -242,6 +242,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 # Nuxt
 
 - SupaNuxt SaaS. Nuxt3. **Open Source**. [https://github.com/JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) [![Stars](https://img.shields.io/github/stars/JavascriptMick/supanuxt-saas.svg)](https://github.com/JavascriptMick/supanuxt-saas)
+- Nuxtz - Nuxt Boilerplate - https://www.nuxtz.com/
 - Nuxt Starter AI - https://nuxtstarter.ai
 - SaaS-Boilerplate.dev (TypeScript, Production-Ready) - https://saas-boilerplate.dev
 - Start Ease - focused on Conversion, build a marketing funnel helps grow 🌼 - [startease.dev](https://startease.dev)
