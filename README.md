@@ -92,6 +92,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
+- SuperStarter - https://superstarter.focusapps.app/: Out-of-the-box Next.js 15 Saas starter kit
 - Rocketlaunch - https://www.rocket-launch.dev/
 - Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
 - Builderkit.ai - Highly modular NextJS AI Boilerplate that allows you to ship an AI App super fast - [https://www.builderkit.ai](https://www.builderkit.ai)
