@@ -128,6 +128,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Shaker's Kit - SaaS Starter Kit for Entrepreneurs [shakersk.it](https://shakersk.it)
 - NextUpKit - Affordable Next.js starter kit boilerplate - https://www.nextupkit.com 
 - Kokonut Boilerplate - https://kokonut.dev/
+- MkSaaS - Make Your AI SaaS Product in a Weekend. [mksaas.com](https://mksaas.com)
 
 ## React Native
 
