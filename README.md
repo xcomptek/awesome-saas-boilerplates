@@ -92,7 +92,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
-
+- No-Code Platform Boilerplate - https://github.com/nocode-js/nocode-platform-boilerplate [![Stars](https://img.shields.io/github/stars/nocode-js/nocode-platform-boilerplate.svg)](https://github.com/nocode-js/nocode-platform-boilerplate)
 - SaaS AI - [saasai.dev](https://saasai.dev)
 - SuperStarter - https://superstarter.focusapps.app/: Out-of-the-box Next.js 15 Saas starter kit
 - Rocketlaunch - https://www.rocket-launch.dev/
