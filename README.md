@@ -8,6 +8,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Kotlin
 
+- KMPShip - Kotlin/Compose Multiplatform boilerplate to launch Android and iOS apps faster - [https://kmpship.app/](https://kmpship.app/)
 - KAppMaker (Kotlin Multiplatform Boilerplate) - [https://kappmaker.com](https://kappmaker.com/?utm_source=awesome-saas-boilerplates)
 - Compose101 - https://compose101.com/
 
