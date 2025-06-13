@@ -124,6 +124,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Ship fast Stay Robuste.[robuste.dev](https://robuste.dev)
 - StartFast - Free minimalistic SaaS starter kit with a feature-rich Pro version [startfast.cc](https://startfast.cc)
 - QuickStart - https://www.quickstartjs.com/
+- MkSaaS - Make Your AI SaaS Product in a Weekend. [mksaas.com](https://mksaas.com)
 - Mkdirs - The best directory template, launch profitable directory website in minutes. [mkdirs.com](https://mkdirs.com)
 - Shaker's Kit - SaaS Starter Kit for Entrepreneurs [shakersk.it](https://shakersk.it)
 - NextUpKit - Affordable Next.js starter kit boilerplate - https://www.nextupkit.com 
