@@ -92,7 +92,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
-
+- SuperDir - A powerful AI-powered directory boilerplate that helps you launch a feature-rich directory website in minutes. [SuperDir](https://superdir.focusapps.app)
 - SaaS AI - [saasai.dev](https://saasai.dev)
 - SuperStarter - https://superstarter.focusapps.app/: Out-of-the-box Next.js 15 Saas starter kit
 - Rocketlaunch - https://www.rocket-launch.dev/
