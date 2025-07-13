@@ -93,6 +93,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Next.js
 
 
+- Nexty.dev - One Boilerplate, Multiple Solutions [Nexty.dev](https://nexty.dev/)
 - SaaS AI - [saasai.dev](https://saasai.dev)
 - SuperStarter - https://superstarter.focusapps.app/: Out-of-the-box Next.js 15 Saas starter kit
 - Rocketlaunch - https://www.rocket-launch.dev/
