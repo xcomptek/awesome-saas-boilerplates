@@ -33,7 +33,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Builderkit.ai - AI Boilerplate that allows you to ship an AI App super fast - [https://www.builderkit.ai](https://www.builderkit.ai)
 - TurboStarter https://turbostarter.dev
 - React SaaS - Free and open source SaaS Boilerplate https://react-saas.com/
-- OpenSaaS.sh - free, open-source React/NodeJS/Prisma/Stripe SaaS boilerplate [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates)
+- OpenSaaS.sh - **Open Source** Most popular free React, NodeJS, Prisma, Stripe boilerplate. [https://OpenSaaS.sh/](https://opensaas.sh/?utm_source=awesome-saas-boilerplates) [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas)
 - Scale Safe [https://scalesafe.app/](https://scalesafe.app/?utm_source=awesome-saas-boilerplates&utm_medium=catalog)
 - Gravity https://usegravity.app/
 - Nodewood https://nodewood.com/
@@ -94,6 +94,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - Bones - [bones.sh](https://bones.sh)
 - Shipkit - [shipkit.io](https://shipkit.io) 
+- SaaS AI - [saasai.dev](https://saasai.dev)
+- SuperStarter - https://superstarter.focusapps.app/: Out-of-the-box Next.js 15 Saas starter kit
 - Rocketlaunch - https://www.rocket-launch.dev/
 - Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
 - Builderkit.ai - Highly modular NextJS AI Boilerplate that allows you to ship an AI App super fast - [https://www.builderkit.ai](https://www.builderkit.ai)
@@ -244,6 +246,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 # Nuxt
 
 - SupaNuxt SaaS. Nuxt3. **Open Source**. [https://github.com/JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) [![Stars](https://img.shields.io/github/stars/JavascriptMick/supanuxt-saas.svg)](https://github.com/JavascriptMick/supanuxt-saas)
+- Nuxtz - Nuxt Boilerplate - https://www.nuxtz.com/
 - Nuxt Starter AI - https://nuxtstarter.ai
 - SaaS-Boilerplate.dev (TypeScript, Production-Ready) - https://saas-boilerplate.dev
 - Start Ease - focused on Conversion, build a marketing funnel helps grow 🌼 - [startease.dev](https://startease.dev)
