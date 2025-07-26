@@ -92,6 +92,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
+- No-Code Platform Boilerplate - https://github.com/nocode-js/nocode-platform-boilerplate [![Stars](https://img.shields.io/github/stars/nocode-js/nocode-platform-boilerplate.svg)](https://github.com/nocode-js/nocode-platform-boilerplate)
 - Bones - [bones.sh](https://bones.sh)
 - Shipkit - [shipkit.io](https://shipkit.io) 
 - SaaS AI - [saasai.dev](https://saasai.dev)
