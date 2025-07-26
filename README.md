@@ -92,7 +92,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
-
+- Bones - [bones.sh](https://bones.sh)
+- Shipkit - [shipkit.io](https://shipkit.io) 
 - SaaS AI - [saasai.dev](https://saasai.dev)
 - SuperStarter - https://superstarter.focusapps.app/: Out-of-the-box Next.js 15 Saas starter kit
 - Rocketlaunch - https://www.rocket-launch.dev/
