@@ -93,6 +93,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
+- Nexty.dev - One Boilerplate, Multiple Solutions [Nexty.dev](https://nexty.dev/)
 - SuperDir - A powerful AI-powered directory boilerplate that helps you launch a feature-rich directory website in minutes. [SuperDir](https://superdir.focusapps.app)
 - No-Code Platform Boilerplate - https://github.com/nocode-js/nocode-platform-boilerplate [![Stars](https://img.shields.io/github/stars/nocode-js/nocode-platform-boilerplate.svg)](https://github.com/nocode-js/nocode-platform-boilerplate)
 - Bones - [bones.sh](https://bones.sh)
