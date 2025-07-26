@@ -93,6 +93,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Next.js
 
 - No-Code Platform Boilerplate - https://github.com/nocode-js/nocode-platform-boilerplate [![Stars](https://img.shields.io/github/stars/nocode-js/nocode-platform-boilerplate.svg)](https://github.com/nocode-js/nocode-platform-boilerplate)
+- Bones - [bones.sh](https://bones.sh)
+- Shipkit - [shipkit.io](https://shipkit.io) 
 - SaaS AI - [saasai.dev](https://saasai.dev)
 - SuperStarter - https://superstarter.focusapps.app/: Out-of-the-box Next.js 15 Saas starter kit
 - Rocketlaunch - https://www.rocket-launch.dev/
@@ -128,6 +130,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Shaker's Kit - SaaS Starter Kit for Entrepreneurs [shakersk.it](https://shakersk.it)
 - NextUpKit - Affordable Next.js starter kit boilerplate - https://www.nextupkit.com 
 - Kokonut Boilerplate - https://kokonut.dev/
+- MkSaaS - Make Your AI SaaS Product in a Weekend. [mksaas.com](https://mksaas.com)
 
 ## React Native
 
@@ -245,6 +248,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 # Nuxt
 
 - SupaNuxt SaaS. Nuxt3. **Open Source**. [https://github.com/JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) [![Stars](https://img.shields.io/github/stars/JavascriptMick/supanuxt-saas.svg)](https://github.com/JavascriptMick/supanuxt-saas)
+- Nuxtz - Nuxt Boilerplate - https://www.nuxtz.com/
 - Nuxt Starter AI - https://nuxtstarter.ai
 - SaaS-Boilerplate.dev (TypeScript, Production-Ready) - https://saas-boilerplate.dev
 - Start Ease - focused on Conversion, build a marketing funnel helps grow 🌼 - [startease.dev](https://startease.dev)
