@@ -269,3 +269,4 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Terraform
 
 - DeployFast - https://deployfast.cloud
+- Terraform Starter - **Open Source** [https://github.com/DmitrySadovnikov/terraform-starter](https://github.com/DmitrySadovnikov/terraform-starter)
