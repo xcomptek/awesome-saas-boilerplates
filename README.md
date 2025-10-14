@@ -184,6 +184,10 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 # Python
 
+## FastAPI
+
+- FastSaaS - https://www.fast-saas.com/
+
 ## Django
 
 - Carrot Seed - https://www.cnc.io/en/seed
