@@ -126,6 +126,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SaasRock - https://saasrock.com
 - Shaker's Kit - https://shakersk.it
 - ShipFast - https://shipfa.st/
+- Indie Kit - https://indiekit.pro/
 - Shipkit - [shipkit.io](https://shipkit.io) 
 - Shipped https://shipped.club/?utm_source=awesome-saas-boilerplates
 - StartFast - https://startfast.cc
@@ -275,3 +276,4 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - DeployFast - https://deployfast.cloud
 - Terraform Starter - **Open Source** [https://github.com/DmitrySadovnikov/terraform-starter](https://github.com/DmitrySadovnikov/terraform-starter) [![Stars](https://img.shields.io/github/stars/DmitrySadovnikov/terraform-starter.svg)](https://github.com/DmitrySadovnikov/terraform-starter)
+
