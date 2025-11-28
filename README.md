@@ -100,6 +100,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Bones - [bones.sh](https://bones.sh)
 - Builderkit.ai - https://www.builderkit.ai
 - Dirstarter - https://dirstarter.com/?utm_source=awesome-saas-boilerplates
+- Frontend Accelerator - https://FrontendAccelerator.com/?utm_source=awesome-saas-boilerplates
 - Kokonut - https://kokonut.dev/
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
 - Mkdirs - https://mkdirs.com
@@ -275,3 +276,4 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - DeployFast - https://deployfast.cloud
 - Terraform Starter - **Open Source** [https://github.com/DmitrySadovnikov/terraform-starter](https://github.com/DmitrySadovnikov/terraform-starter) [![Stars](https://img.shields.io/github/stars/DmitrySadovnikov/terraform-starter.svg)](https://github.com/DmitrySadovnikov/terraform-starter)
+
