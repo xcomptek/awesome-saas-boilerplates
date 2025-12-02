@@ -55,6 +55,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Rocket App https://rocketapp.me/
 - SaaS Boilerplate by Async Labs - [https://github.com/async-labs/saas](https://github.com/async-labs/saas) [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas)
 - SaaS Starter Kit - https://www.startsaas.com
+- SaaS Starter Stack - **Open Source** https://github.com/martinschenk/saas-starter-stack [![Stars](https://img.shields.io/github/stars/martinschenk/saas-starter-stack.svg)](https://github.com/martinschenk/saas-starter-stack)
 - SaaS Starter. **Open Source**. https://github.com/cedrickchee/saas-starter [![Stars](https://img.shields.io/github/stars/cedrickchee/saas-starter.svg)](https://github.com/cedrickchee/saas-starter)
 - Saas UI Pro - https://saas-ui.dev
 - SAAS-Starter-Kit - [https://github.com/Saas-Starter-Kit/Saas-Kit-prisma](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma) [![Stars](https://img.shields.io/github/stars/Saas-Starter-Kit/Saas-Kit-prisma.svg)](https://github.com/Saas-Starter-Kit/Saas-Kit-prisma)
