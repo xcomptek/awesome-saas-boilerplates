@@ -101,6 +101,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Builderkit.ai - https://www.builderkit.ai
 - Dirstarter - https://dirstarter.com/?utm_source=awesome-saas-boilerplates
 - Frontend Accelerator - https://FrontendAccelerator.com/?utm_source=awesome-saas-boilerplates
+- Indie Kit - https://indiekit.pro/
 - Kokonut - https://kokonut.dev/
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
 - Mkdirs - https://mkdirs.com
