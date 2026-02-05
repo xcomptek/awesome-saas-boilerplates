@@ -101,6 +101,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Bones - [bones.sh](https://bones.sh)
 - Builderkit.ai - https://www.builderkit.ai
 - Dirstarter - https://dirstarter.com/?utm_source=awesome-saas-boilerplates
+- Fabrk - https://fabrk.dev
 - Frontend Accelerator - https://FrontendAccelerator.com/?utm_source=awesome-saas-boilerplates
 - Indie Kit - https://indiekit.pro/
 - Kokonut - https://kokonut.dev/
