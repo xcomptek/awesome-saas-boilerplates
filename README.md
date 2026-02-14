@@ -104,6 +104,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Frontend Accelerator - https://FrontendAccelerator.com/?utm_source=awesome-saas-boilerplates
 - Indie Kit - https://indiekit.pro/
 - Kokonut - https://kokonut.dev/
+- LaunchFast - [https://github.com/Wittlesus/launchfast-starter](https://github.com/Wittlesus/launchfast-starter) [![Stars](https://img.shields.io/github/stars/Wittlesus/launchfast-starter.svg)](https://github.com/Wittlesus/launchfast-starter) - **Open Source** Next.js 16 SaaS boilerplate with NextAuth v5, Stripe, Prisma 6, Claude AI, Resend, TypeScript, and TailwindCSS
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
 - Mkdirs - https://mkdirs.com
 - MkSaaS - https://mksaas.com
