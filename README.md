@@ -105,6 +105,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Indie Kit - https://indiekit.pro/
 - Kokonut - https://kokonut.dev/
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
+- LaunchFast - https://github.com/Wittlesus/launchfast-starter
 - Mkdirs - https://mkdirs.com
 - MkSaaS - https://mksaas.com
 - Next 14 FullStack - https://thesaasfactory.dev
