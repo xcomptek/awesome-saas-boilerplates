@@ -128,6 +128,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SaaS Kit - **Open Sourse** https://saaskit.one/
 - SaasRock - https://saasrock.com
 - Shaker's Kit - https://shakersk.it
+- ShipAI.today - https://shipai.today/
 - ShipFast - https://shipfa.st/
 - Shipkit - [shipkit.io](https://shipkit.io) 
 - Shipped https://shipped.club/?utm_source=awesome-saas-boilerplates
