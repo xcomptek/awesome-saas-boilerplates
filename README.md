@@ -95,6 +95,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
+- Agentic React Template - **Open Source** Agent-testable SaaS starter with Next.js 16 + shadcn/ui + Tailwind CSS [https://github.com/iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) [![Stars](https://img.shields.io/github/stars/iscale-llc/agentic-react-nextjs-shadcn.svg)](https://github.com/iscale-llc/agentic-react-nextjs-shadcn)
 - All-In-One https://allinonedev.com
 - Appliful - https://appliful.com/
 - Bedrock - https://bedrock.mxstbr.com/
