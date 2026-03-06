@@ -68,6 +68,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - shadcn/pro - https://shadcnpro.com/
 - ShipMySaaS https://shipmysaas.com
 - StarterSaaS - https://www.startersaas.com/
+- Stacknaut - https://stacknaut.com
 - StartKit.AI - https://startkit.ai
 - Supastarter - https://supastarter.dev/
 - Turbojet https://www.turbojet.co/
