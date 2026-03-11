@@ -172,6 +172,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Laravel Spark - https://spark.laravel.com
 - Nana - https://saasstarterkit.app/
 - RapidSaaS Conduit - https://rapidsaas.dev
+- SaasForgeKit Lite - https://github.com/SaasForgeKit/saasforgekit-lite
+- SaasForgeKit Pro - https://saasforgekit.com
 - SaaS Starter Kit - https://saasstarterkit.app
 - saas-boilerplate - **Open Source** [https://github.com/miracuthbert/saas-boilerplate](https://github.com/miracuthbert/saas-boilerplate) [![Stars](https://img.shields.io/github/stars/miracuthbert/saas-boilerplate.svg)](https://github.com/miracuthbert/saas-boilerplate)
 - SaaSWeb - https://codecanyon.net/item/saasweb-laravel-58-vue-saas-starter-kit/24302103
@@ -284,5 +286,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - DeployFast - https://deployfast.cloud
 - Terraform Starter - **Open Source** [https://github.com/DmitrySadovnikov/terraform-starter](https://github.com/DmitrySadovnikov/terraform-starter) [![Stars](https://img.shields.io/github/stars/DmitrySadovnikov/terraform-starter.svg)](https://github.com/DmitrySadovnikov/terraform-starter)
+
 
 
