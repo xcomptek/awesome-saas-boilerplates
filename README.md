@@ -130,6 +130,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SaaS Kit - **Open Sourse** https://saaskit.one/
 - SaasRock - https://saasrock.com
 - Shaker's Kit - https://shakersk.it
+- ShipAI - https://shipai.maketrend.ai - AI SaaS starter kit with Next.js 15, Convex, Stripe credit billing, AI chatbot, voice agent, and multi-tenant support
 - ShipAI.today - https://shipai.today/
 - ShipFast - https://shipfa.st/
 - Shipkit - [shipkit.io](https://shipkit.io) 
