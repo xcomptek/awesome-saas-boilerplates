@@ -142,6 +142,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - TurboStarter https://turbostarter.dev
 - Usenextbase - https://usenextbase.com
 - VelocityKit - https://www.velocitykit.dev
+- VibeReady https://vibeready.sh - AI-native SaaS starter kit that keeps AI-generated code consistent at scale. Built-in context routing, quality gates, and
+LLM-friendly documentation for Claude Code, Cursor, and Copilot.
 - PocketStarter for PocketBase - https://pocketstarter.dev
 
 ## React Native
@@ -159,6 +161,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Serverless SaaS. React. https://serverless.page
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
 - TurboStarter https://turbostarter.dev
+- VibeReady https://vibeready.sh - AI-native SaaS starter kit that keeps AI-generated code consistent at scale. Built-in context routing, quality gates, and
+LLM-friendly documentation for Claude Code, Cursor, and Copilot.
 
 # PHP
 
@@ -284,5 +288,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - DeployFast - https://deployfast.cloud
 - Terraform Starter - **Open Source** [https://github.com/DmitrySadovnikov/terraform-starter](https://github.com/DmitrySadovnikov/terraform-starter) [![Stars](https://img.shields.io/github/stars/DmitrySadovnikov/terraform-starter.svg)](https://github.com/DmitrySadovnikov/terraform-starter)
+- VibeReady https://vibeready.sh - AI-native SaaS starter kit that keeps AI-generated code consistent at scale. Built-in context routing, quality gates, and
+LLM-friendly documentation for Claude Code, Cursor, and Copilot.
 
 
