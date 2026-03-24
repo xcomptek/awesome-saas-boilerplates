@@ -41,6 +41,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Horizon UI - https://horizon-ui.com/boilerplate
 - Indie https://indie-starter.dev
 - Launchway - https://www.launchway.dev/
+- LaunchKit - https://github.com/huangyongshan46-a11y/launchkit-saas [![Stars](https://img.shields.io/github/stars/huangyongshan46-a11y/launchkit-saas.svg)](https://github.com/huangyongshan46-a11y/launchkit-saas)
 - makerkit - https://makerkit.dev
 - marblism - https://www.marblism.com/
 - Modern MERN - https://modernmern.com
@@ -255,6 +256,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - LaunchFast.pro https://launchfast.pro/
 - Launchway - https://www.launchway.dev/
+- LaunchKit - https://github.com/huangyongshan46-a11y/launchkit-saas [![Stars](https://img.shields.io/github/stars/huangyongshan46-a11y/launchkit-saas.svg)](https://github.com/huangyongshan46-a11y/launchkit-saas)
 - OneMix - https://saask.ing
 
 ## Ionic Framework
