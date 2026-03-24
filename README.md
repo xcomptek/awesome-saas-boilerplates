@@ -159,6 +159,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Serverless SaaS. React. https://serverless.page
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
 - TurboStarter https://turbostarter.dev
+- VibeReady https://vibeready.sh - AI-native SaaS starter kit that keeps AI-generated code consistent at scale. Built-in context routing, quality gates, and
+LLM-friendly documentation for Claude Code, Cursor, and Copilot.
 
 # PHP
 
