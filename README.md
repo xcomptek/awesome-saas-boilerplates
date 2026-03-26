@@ -45,6 +45,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - marblism - https://www.marblism.com/
 - Modern MERN - https://modernmern.com
 - Next.js Boilerplate SaaS - https://nextjs-boilerplate.com/pro-saas-starter-kit
+- Next.js SaaS Boilerplate - **Open Source** Next.js 16 starter with auth (Better Auth), Stripe billing, admin dashboard, blog CMS, RBAC, email system, and 50+ shadcn/ui components [https://github.com/habibjutt/nextjs_boilerplate](https://github.com/habibjutt/nextjs_boilerplate) [![Stars](https://img.shields.io/github/stars/habibjutt/nextjs_boilerplate.svg)](https://github.com/habibjutt/nextjs_boilerplate)
 - Nextacular. **Open Source**. https://nextacular.co
 - Nextless JS https://nextlessjs.com
 - NextReady - https://nextready.dev
