@@ -225,6 +225,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Other
 
+- ai-vertical-saas-gen - **Open Source** Generates vertical SaaS apps (Next.js + Tailwind) with niche-specific data models from a single keyword. [https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen) [![Stars](https://img.shields.io/github/stars/kurtnebiev-elvis4/ai-vertical-saas-gen.svg)](https://github.com/kurtnebiev-elvis4/ai-vertical-saas-gen)
 - GeniePy - https://geniepy.com
 - PySaaS - https://pysaas.io/
 
@@ -284,5 +285,4 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - DeployFast - https://deployfast.cloud
 - Terraform Starter - **Open Source** [https://github.com/DmitrySadovnikov/terraform-starter](https://github.com/DmitrySadovnikov/terraform-starter) [![Stars](https://img.shields.io/github/stars/DmitrySadovnikov/terraform-starter.svg)](https://github.com/DmitrySadovnikov/terraform-starter)
-
 
