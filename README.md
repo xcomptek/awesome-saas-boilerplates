@@ -285,4 +285,5 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - DeployFast - https://deployfast.cloud
 - Terraform Starter - **Open Source** [https://github.com/DmitrySadovnikov/terraform-starter](https://github.com/DmitrySadovnikov/terraform-starter) [![Stars](https://img.shields.io/github/stars/DmitrySadovnikov/terraform-starter.svg)](https://github.com/DmitrySadovnikov/terraform-starter)
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for SaaS automation, multi-agent orchestration, customer support, and automated workflow management. MIT licensed.
 
