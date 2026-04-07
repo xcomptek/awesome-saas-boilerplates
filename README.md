@@ -131,6 +131,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SaasRock - https://saasrock.com
 - Shaker's Kit - https://shakersk.it
 - ShipAI.today - https://shipai.today/
+- ShipKit - https://shipkit.davrapps.dev - Next.js + Bun SaaS boilerplate with auth (Better Auth), billing (Polar.sh), i18n, email (Resend), PostgreSQL
 - ShipFast - https://shipfa.st/
 - Shipkit - [shipkit.io](https://shipkit.io) 
 - Shipped https://shipped.club/?utm_source=awesome-saas-boilerplates
