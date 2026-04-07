@@ -77,6 +77,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Volca https://volca.io
 - WEBAPPBOOST - [https://webappboost.com](https://webappboost.com)
 - Saas.js - https://saas-js.com
+- Overloop CLI - https://github.com/sortlist/overloop-cli - AI-powered outbound engine. Source 450M+ contacts, email + LinkedIn campaigns. `npm i -g overloop-cli`
+- Signals CLI - https://github.com/sortlist/signals-cli - Intent signal monitoring. LinkedIn engagers, keyword posters, job changers, funding events. `npm i -g signals-sortlist-cli`
 
 ## SvelteKit
 
