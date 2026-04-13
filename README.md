@@ -18,6 +18,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - easyShip pro - https://www.easyship.pro
 - Openkoda https://github.com/openkoda/openkoda [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
 - Springular https://springular.io/
+- ZukovLabs SaaS Starter https://github.com/zukovlabs/enterprise-java-saas-starter-kit
 
 # Javascript/Typescript
 
