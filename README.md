@@ -198,6 +198,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## FastAPI
 
 - FastSaaS - https://www.fast-saas.com/
+- The Unsexy Stack - https://theunsexystack.com
 
 ## Django
 
