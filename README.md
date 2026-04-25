@@ -282,6 +282,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Flutter - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
 - Quapp: Quasar + Appwrite https://www.quapp.dev/
 - Swift Maker - https://swiftmaker.dev/
+- The Flutter Kit - Cross-platform Flutter boilerplate with Firebase Auth, RevenueCat subscriptions, OpenAI integration, push notifications, Material 3 design system, and BLoC architecture. https://theflutterk.it.com/
 - The Swift Kit - SwiftUI iOS boilerplate with Supabase, RevenueCat, OpenAI, TelemetryDeck, and a centralized 5-layer design system. https://theswiftk.it.com/
 
 # Deployment & Infrastructure
