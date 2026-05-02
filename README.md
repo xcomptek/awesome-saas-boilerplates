@@ -30,7 +30,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - ALPack - [https://github.com/apptension/ALPack](https://github.com/apptension/ALPack) [![Stars](https://img.shields.io/github/stars/apptension/ALPack.svg)](https://github.com/apptension/ALPack)
 - AWS + React SaaS Template. https://github.com/SimonHoiberg/saas-template [![Stars](https://img.shields.io/github/stars/SimonHoiberg/saas-template.svg)](https://github.com/SimonHoiberg/saas-template)
-- BetterStarter - https://betterstarter.dev
 - BoilerPro - https://boilerpro.co
 - Builderkit.ai - https://www.builderkit.ai
 - DirectoryKit - https://www.directorykit.xyz/
