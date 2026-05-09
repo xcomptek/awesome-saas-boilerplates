@@ -145,6 +145,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Usenextbase - https://usenextbase.com
 - VelocityKit - https://www.velocitykit.dev
 - PocketStarter for PocketBase - https://pocketstarter.dev
+- WhatsApp Receptionist - **Open Source** AI receptionist for WhatsApp. Multi-tenant, Anthropic Claude orchestration, Supabase RLS, GDPR endpoints, Italian SDI invoicing. Crafted in Italy. [https://github.com/Hiberius/whatsapp-receptionist](https://github.com/Hiberius/whatsapp-receptionist) [![Stars](https://img.shields.io/github/stars/Hiberius/whatsapp-receptionist.svg)](https://github.com/Hiberius/whatsapp-receptionist)
 
 ## React Native
 
