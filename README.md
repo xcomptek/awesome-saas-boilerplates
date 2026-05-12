@@ -2,7 +2,8 @@ List of SaaS boilerplates (starter kits) by stack
 
 _Browse/filter by tech stack and rate -> https://xcomptek.com/awesome-saas-boilerplates/_
 
-_Did I miss something? Do you have a boilerplate to share? -> create a PR ([How to?](https://kbroman.org/github_tutorial/pages/fork.html))_
+_Did I miss something? Do y
+ou have a boilerplate to share? -> create a PR ([How to?](https://kbroman.org/github_tutorial/pages/fork.html))_
 
 # JVM
 
@@ -101,6 +102,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - All-In-One https://allinonedev.com
 - Appliful - https://appliful.com/
 - Bedrock - https://bedrock.mxstbr.com/
+- Next.js + Polar - https://nextjs-better-auth-polar-neon-boil.vercel.app
 - BoilerPro - https://boilerpro.co
 - Bones - [bones.sh](https://bones.sh)
 - Builderkit.ai - https://www.builderkit.ai
