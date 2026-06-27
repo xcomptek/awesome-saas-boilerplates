@@ -25,6 +25,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## NestJs
 
 - Launchnow https://www.launchnow.pro/
+- SaaS Starter by Cloudrix - **Open Source**. https://github.com/sayahweb2-png/saas-starter-lite [![Stars](https://img.shields.io/github/stars/sayahweb2-png/saas-starter-lite.svg)](https://github.com/sayahweb2-png/saas-starter-lite) - NestJS + Angular, Stripe, multi-tenancy, MIT license
 - SYNDROM https://syndrom.io/
 
 ## Node.js
