@@ -111,6 +111,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
 - Mkdirs - https://mkdirs.com
 - MkSaaS - https://mksaas.com
+- ShipNext - https://shipnext.pro
 - Next 14 FullStack - https://thesaasfactory.dev
 - Next Starter AI - https://nextstarter.ai
 - Next.js Boilerplate - **Open Source** [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate)
