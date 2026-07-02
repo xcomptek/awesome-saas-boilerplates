@@ -25,6 +25,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## NestJs
 
 - Launchnow https://www.launchnow.pro/
+- SaaS Starter Lite - **Open Source** NestJS + Angular SaaS boilerplate with JWT/OAuth/2FA auth, Stripe payments, multi-tenancy, RBAC, Docker, and Terraform. https://github.com/sayahweb2-png/saas-starter-lite [![Stars](https://img.shields.io/github/stars/sayahweb2-png/saas-starter-lite.svg)](https://github.com/sayahweb2-png/saas-starter-lite)
 - SYNDROM https://syndrom.io/
 
 ## Node.js
