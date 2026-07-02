@@ -108,6 +108,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Frontend Accelerator - https://FrontendAccelerator.com/?utm_source=awesome-saas-boilerplates
 - Indie Kit - https://indiekit.pro/
 - Kokonut - https://kokonut.dev/
+- Kostra - https://kostra.io
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
 - Mkdirs - https://mkdirs.com
 - MkSaaS - https://mksaas.com
