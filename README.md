@@ -132,6 +132,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Rocketlaunch - https://www.rocket-launch.dev/
 - SaaS AI - [saasai.dev](https://saasai.dev)
 - SaaS Kit - **Open Sourse** https://saaskit.one/
+- SaaSLaunch - https://saaslaunch.dev/?utm_source=awesome-saas-boilerplates
 - SaasRock - https://saasrock.com
 - Shaker's Kit - https://shakersk.it
 - ShipAI.today - https://shipai.today/
