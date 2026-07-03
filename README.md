@@ -144,7 +144,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - TurboStarter https://turbostarter.dev
 - Usenextbase - https://usenextbase.com
 - VelocityKit - https://www.velocitykit.dev
-- Velobase Harness - **Open Source** AI SaaS boilerplate with usage-based billing, Stripe, attribution, auth, multi-LLM chat & admin dashboard (Next.js + T3 stack) [https://github.com/velobase/velobase-harness](https://github.com/velobase/velobase-harness) [![Stars](https://img.shields.io/github/stars/velobase/velobase-harness.svg)](https://github.com/velobase/velobase-harness)
+- Velobase Harness - https://github.com/velobase/velobase-harness [![Stars](https://img.shields.io/github/stars/velobase/velobase-harness.svg)](https://github.com/velobase/velobase-harness)
 - PocketStarter for PocketBase - https://pocketstarter.dev
 
 ## React Native
