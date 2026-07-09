@@ -187,6 +187,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SaaSykit - https://saasykit.com/
 - Streamline https://streamlinelaravel.com
 - Tenancy - https://tenancyforlaravel.com/saas-boilerplate/
+- UnfoldCMS - **Open Source** Self-hosted CMS on Laravel 12 + React 19 + shadcn/ui + Tailwind v4 + Inertia 2, with REST API v1 (42 endpoints), HMAC-signed webhooks, and headless mode (Next.js, Astro, SvelteKit, Nuxt) [https://github.com/hpakdaman/unfoldcms](https://github.com/hpakdaman/unfoldcms) [![Stars](https://img.shields.io/github/stars/hpakdaman/unfoldcms.svg)](https://github.com/hpakdaman/unfoldcms)
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 - Wave - https://devdojo.com/wave
 
