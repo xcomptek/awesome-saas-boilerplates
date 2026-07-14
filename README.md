@@ -159,7 +159,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Other
 
 
-- [GeoInfomatic — Living Zone Accessibility](https://geoinfomatic.pythonanywhere.com) - Production Flask SaaS (Korean neighborhood isochrone analyzer). Freemium model: 5 free analyses/day, $7/month Pro for unlimited + PDF reports + multi-point comparison. Flask + Leaflet + Toss Payments. Solo-built on PythonAnywhere free tier.
+- [GeoInfomatic](https://geoinfomatic.pythonanywhere.com)
 - Serverless SaaS. React. https://serverless.page
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
 - TurboStarter https://turbostarter.dev
