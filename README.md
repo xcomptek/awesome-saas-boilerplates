@@ -105,6 +105,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - BoilerPro - https://boilerpro.co
 - Bones - [bones.sh](https://bones.sh)
 - Builderkit.ai - https://www.builderkit.ai
+- CreditKit - Next.js, Supabase, and Stripe starter with a production-ready usage-credits and billing engine (atomic credit spend, idempotent Stripe webhooks, refund-on-failure worker) https://youngalgy.com/creditkit
 - Dirstarter - https://dirstarter.com/?utm_source=awesome-saas-boilerplates
 - Frontend Accelerator - https://FrontendAccelerator.com/?utm_source=awesome-saas-boilerplates
 - Indie Kit - https://indiekit.pro/
