@@ -163,6 +163,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Other
 
+
+- [GeoInfomatic](https://geoinfomatic.pythonanywhere.com)
 - Serverless SaaS. React. https://serverless.page
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
 - TurboStarter https://turbostarter.dev
