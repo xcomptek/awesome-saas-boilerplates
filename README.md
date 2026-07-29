@@ -98,6 +98,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
+- Claude AI SaaS Starter - **Open Source**. Next.js 14 + Claude AI streaming chat + Stripe billing + Google Auth. https://github.com/moukie76/claude-saas-starter [![Stars](https://img.shields.io/github/stars/moukie76/claude-saas-starter.svg)](https://github.com/moukie76/claude-saas-starter)
+
 - Agentic React Template - **Open Source** Agent-testable SaaS starter with Next.js 16 + shadcn/ui + Tailwind CSS [https://github.com/iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) [![Stars](https://img.shields.io/github/stars/iscale-llc/agentic-react-nextjs-shadcn.svg)](https://github.com/iscale-llc/agentic-react-nextjs-shadcn)
 - All-In-One https://allinonedev.com
 - Appliful - https://appliful.com/
