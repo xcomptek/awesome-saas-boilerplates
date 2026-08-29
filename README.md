@@ -141,6 +141,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - ShipAI.today - https://shipai.today/
 - ShipFast - https://shipfa.st/
 - Shipkit - [shipkit.io](https://shipkit.io) 
+- ShipKit by DavrApps - https://shipkit.davrapps.dev - Next.js 16 + Bun/ElysiaJS API, Better Auth, Polar payments, admin app
 - Shipped https://shipped.club/?utm_source=awesome-saas-boilerplates
 - StartFast - https://startfast.cc
 - StartupBolt https://www.startupbolt.com/?utm_source=awesome-saas-boilerplates
