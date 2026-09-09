@@ -111,6 +111,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Kokonut - https://kokonut.dev/
 - Kostra - https://kostra.io
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
+- MailKite SaaS Starter - **Open Source** Next.js 15 SaaS starter with self-contained auth (Google/GitHub OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, shadcn/ui, dark-first UI [https://github.com/mailkite/saas-startup](https://github.com/mailkite/saas-startup) [![Stars](https://img.shields.io/github/stars/mailkite/saas-startup.svg)](https://github.com/mailkite/saas-startup)
 - Mkdirs - https://mkdirs.com
 - MkSaaS - https://mksaas.com
 - ShipNext - https://shipnext.pro
