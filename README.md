@@ -192,6 +192,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Tenancy - https://tenancyforlaravel.com/saas-boilerplate/
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 - Wave - https://devdojo.com/wave
+- ProjectFlow - https://esdecode.com/item/projectflow-multi-company-project-management-laravel-13-vue-3-saas-ready
 
 ## Symfony
 
