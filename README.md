@@ -133,6 +133,8 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Rocketlaunch - https://www.rocket-launch.dev/
 - SaaS AI - [saasai.dev](https://saasai.dev)
 - SaaS Kit - **Open Sourse** https://saaskit.one/
+- SaaS Starter - Next.js 15 kit with organizations and enforced seats, hashed API keys, an admin panel, 8 languages across the signed-in app and 128 tests - https://saas-starter.com
+- SaaS Starter Lite - **Open Source** Minimal MIT version of the above: Clerk auth, Stripe subscriptions, Prisma, dark mode on the shadcn/ui token contract, and `npm run audit` which reports the gaps between what the code declares and what it runs [https://github.com/THE-KIPDEV/saas-starter-lite](https://github.com/THE-KIPDEV/saas-starter-lite) [![Stars](https://img.shields.io/github/stars/THE-KIPDEV/saas-starter-lite.svg)](https://github.com/THE-KIPDEV/saas-starter-lite)
 - SaaSLaunch - https://saaslaunch.dev/?utm_source=awesome-saas-boilerplates
 - SaasRock - https://saasrock.com
 - SaaSLaunch - https://saaslaunch.dev
