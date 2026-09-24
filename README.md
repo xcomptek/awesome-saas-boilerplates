@@ -147,6 +147,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - SuperDir - https://superdir.focusapps.app
 - SuperStarter - https://superstarter.focusapps.app/
 - TurboStarter https://turbostarter.dev
+- UllrAI SaaS Starter - **Open Source** Next.js 16 starter with Better Auth, Stripe, PostgreSQL/Drizzle, Cloudflare R2, i18n, and agent/CLI authentication. [Live demo](https://starter.ullrai.com/?utm_source=awesome-saas-boilerplates&utm_medium=referral&utm_campaign=seo_growth_2026q3) [Source](https://github.com/UllrAI/SaaS-Starter) [![Stars](https://img.shields.io/github/stars/UllrAI/SaaS-Starter.svg)](https://github.com/UllrAI/SaaS-Starter)
 - Usenextbase - https://usenextbase.com
 - VelocityKit - https://www.velocitykit.dev
 - Velobase Harness - https://github.com/velobase/velobase-harness [![Stars](https://img.shields.io/github/stars/velobase/velobase-harness.svg)](https://github.com/velobase/velobase-harness)
