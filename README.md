@@ -14,6 +14,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Java
 
 - AuthAndPay https://authandpay.com/
+- [Backbone Community](https://github.com/get-backbone/backbone-community) - Want to write product domain services in ~15 minutes instead of building SaaS plumbing for months? Start from templates with auth, audit, metrics, throttling, fault tolerance and observability built in - with a golden path from local development to production, scale and security. Free Community Edition; upgrade to [Backbone](https://backbonehq.io/) when you're ready.
 - easyShip pro - https://www.easyship.pro
 - Openkoda https://github.com/openkoda/openkoda [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
 - Springular https://springular.io/
