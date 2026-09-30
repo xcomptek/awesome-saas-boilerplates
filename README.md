@@ -263,6 +263,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Jumpstart Rails - https://jumpstartrails.com/
 - Lightning Rails - https://lightningrails.com
 - Rails Tabler Starter -  https://github.com/tarunvelli/rails-tabler-starter
+- RexOne - **Open Source** https://github.com/rex-9/rexone-core
 - Sjabloon - https://www.getsjabloon.com/
 
 ## Remix
