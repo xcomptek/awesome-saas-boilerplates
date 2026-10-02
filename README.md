@@ -53,6 +53,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Nodewood https://nodewood.com/
 - Novel https://novel.dev
 - OpenSaaS.sh - **Open Source** https://opensaas.sh/?utm_source=awesome-saas-boilerplates [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas)
+- OTF Kit - https://otf-kit.dev
 - React SaaS **Open Source** https://react-saas.com/
 - Rocket App https://rocketapp.me/
 - SaaS Boilerplate by Async Labs - [https://github.com/async-labs/saas](https://github.com/async-labs/saas) [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas)
@@ -157,6 +158,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - All-In-One - https://allinonedev.com
 - LaunchYourApp - https://launchyourapp.dev/
 - NativeExpress - https://native.express
+- OTF Kit - https://otf-kit.dev
 - React Native Boilerplate - https://reactnativeboilerplate.com
 - ShipNative - https://shipnative.app
 - SupaWrapper -  https://supawrapper.com
