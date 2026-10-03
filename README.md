@@ -52,6 +52,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - NextReady - https://nextready.dev
 - Nodewood https://nodewood.com/
 - Novel https://novel.dev
+- OMEGA - https://omegajs.dev
 - OpenSaaS.sh - **Open Source** https://opensaas.sh/?utm_source=awesome-saas-boilerplates [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas)
 - React SaaS **Open Source** https://react-saas.com/
 - Rocket App https://rocketapp.me/
