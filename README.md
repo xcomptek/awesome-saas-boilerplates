@@ -156,6 +156,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - All-In-One - https://allinonedev.com
 - LaunchYourApp - https://launchyourapp.dev/
+- Mobile App Code Template - **Open Source**. https://github.com/robinsadeghpour/mobile-app-code-template
 - NativeExpress - https://native.express
 - React Native Boilerplate - https://reactnativeboilerplate.com
 - ShipNative - https://shipnative.app
