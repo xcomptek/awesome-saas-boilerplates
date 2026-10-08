@@ -40,6 +40,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Graphile Starter - [https://github.com/graphile/starter](https://github.com/graphile/starter) [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter)
 - Gravity https://usegravity.app/
 - Horizon UI - https://horizon-ui.com/boilerplate
+- Hype Stack. **Open Source**. https://github.com/BetterTyped/hype-stack
 - Indie https://indie-starter.dev
 - Launchway - https://www.launchway.dev/
 - makerkit - https://makerkit.dev
