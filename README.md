@@ -111,6 +111,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Kokonut - https://kokonut.dev/
 - Kostra - https://kostra.io
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
+- LaunchSaaS - https://launchsaas.dev/?utm_source=awesome-saas-boilerplates
 - Mkdirs - https://mkdirs.com
 - MkSaaS - https://mksaas.com
 - ShipNext - https://shipnext.pro
