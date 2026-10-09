@@ -13,7 +13,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Java
 
-- AuthAndPay https://authandpay.com/
 - easyShip pro - https://www.easyship.pro
 - Openkoda https://github.com/openkoda/openkoda [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
 - Springular https://springular.io/
@@ -36,7 +35,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - DirectoryKit - https://www.directorykit.xyz/
 - Divjoy https://divjoy.com
 - Enterprise-ready SaaS Starter Kit. **Open Source**. [https://github.com/boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit)
-- FastestEngineer - [https://fastest.engineer](https://fastest.engineer)
 - Graphile Starter - [https://github.com/graphile/starter](https://github.com/graphile/starter) [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter)
 - Gravity https://usegravity.app/
 - Horizon UI - https://horizon-ui.com/boilerplate
@@ -83,7 +81,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## SvelteKit
 
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
-- FastestEngineer - https://fastest.engineer
 - Just Ship - https://justship.today
 - SaaS Starter / CMSaasStarter - https://saasstarter.work
 - supastarter for SvelteKit - https://supastarter.dev/sveltekit
@@ -125,18 +122,15 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - NextJSDirectory https://nextjsdirectory.com/
 - NextSaaS - https://nextsaas.live
 - NextUpKit - https://www.nextupkit.com 
-- Nextwrapper https://nextwrapper.com/
 - Nexty.dev https://nexty.dev/
 - No-Code Platform Boilerplate - https://github.com/nocode-js/nocode-platform-boilerplate [![Stars](https://img.shields.io/github/stars/nocode-js/nocode-platform-boilerplate.svg)](https://github.com/nocode-js/nocode-platform-boilerplate)
 - QuickStart - https://www.quickstartjs.com/
-- Robuste - https://robuste.dev
 - Rocketlaunch - https://www.rocket-launch.dev/
 - SaaS AI - [saasai.dev](https://saasai.dev)
 - SaaS Kit - **Open Sourse** https://saaskit.one/
 - SaaSLaunch - https://saaslaunch.dev/?utm_source=awesome-saas-boilerplates
 - SaasRock - https://saasrock.com
 - SaaSLaunch - https://saaslaunch.dev
-- Shaker's Kit - https://shakersk.it
 - ShipAI.today - https://shipai.today/
 - ShipFast - https://shipfa.st/
 - Shipkit - [shipkit.io](https://shipkit.io) 
@@ -145,7 +139,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - StartupBolt https://www.startupbolt.com/?utm_source=awesome-saas-boilerplates
 - supastarter - https://supastarter.dev/nextjs
 - SuperDir - https://superdir.focusapps.app
-- SuperStarter - https://superstarter.focusapps.app/
 - TurboStarter https://turbostarter.dev
 - Usenextbase - https://usenextbase.com
 - VelocityKit - https://www.velocitykit.dev
@@ -155,11 +148,9 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## React Native
 
 - All-In-One - https://allinonedev.com
-- LaunchYourApp - https://launchyourapp.dev/
 - NativeExpress - https://native.express
 - React Native Boilerplate - https://reactnativeboilerplate.com
 - ShipNative - https://shipnative.app
-- SupaWrapper -  https://supawrapper.com
 - TurboStarter - https://turbostarter.dev
 
 ## Other
@@ -167,7 +158,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - [GeoInfomatic](https://geoinfomatic.pythonanywhere.com)
 - Serverless SaaS. React. https://serverless.page
-- SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
 - TurboStarter https://turbostarter.dev
 
 # PHP
@@ -181,7 +171,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Larafast - https://larafast.com
 - Laravel Spark - https://spark.laravel.com
 - Nana - https://saasstarterkit.app/
-- RapidSaaS Conduit - https://rapidsaas.dev
 - SaasForgeKit Lite - https://github.com/SaasForgeKit/saasforgekit-lite
 - SaasForgeKit Pro - https://saasforgekit.com
 - SaaS Starter Kit - https://saasstarterkit.app
@@ -235,7 +224,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Enferno Frameowrk - **Open Source** https://enferno.io/
 - Flask App Builder - **Open Source** [https://github.com/dpgaspar/Flask-AppBuilder](https://github.com/dpgaspar/Flask-AppBuilder) [![Stars](https://img.shields.io/github/stars/dpgaspar/Flask-AppBuilder.svg)](https://github.com/dpgaspar/Flask-AppBuilder)
 - Ignite - https://github.com/sumukh/ignite
-- SaaS Forge - **Open Source** https://www.saasforge.dev/
 
 ## Other
 
@@ -274,14 +262,10 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Ionic Framework
 
 - Ionstarter - https://ionstarter.dev/
-- IonFast, framework-agnostic Ionic boilerplate - https://ionic-template.com
 
 # Nuxt
 
-- Nuxt Starter AI - https://nuxtstarter.ai
-- Nuxtz  - https://www.nuxtz.com/
 - SaaS-Boilerplate.dev - https://saas-boilerplate.dev
-- Start Ease https://startease.dev
 - SupaNuxt - **Open Source** [https://github.com/JavascriptMick/supanuxt-saas](https://github.com/JavascriptMick/supanuxt-saas) [![Stars](https://img.shields.io/github/stars/JavascriptMick/supanuxt-saas.svg)](https://github.com/JavascriptMick/supanuxt-saas)
 
 # Rare frameworks
@@ -289,7 +273,6 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - BoilerPro - https://boilerpro.co
 - Extro - Open source browser extension starter kit [https://github.com/turbostarter/extro](https://github.com/turbostarter/extro) [![Stars](https://img.shields.io/github/stars/turbostarter/extro.svg)](https://github.com/turbostarter/extro)
 - Flutter - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
-- Quapp: Quasar + Appwrite https://www.quapp.dev/
 - Swift Maker - https://swiftmaker.dev/
 - The Flutter Kit - Cross-platform Flutter boilerplate with Firebase Auth, RevenueCat subscriptions, OpenAI integration, push notifications, Material 3 design system, and BLoC architecture. https://theflutterk.it.com/
 - The Swift Kit - SwiftUI iOS boilerplate with Supabase, RevenueCat, OpenAI, TelemetryDeck, and a centralized 5-layer design system. https://theswiftk.it.com/
