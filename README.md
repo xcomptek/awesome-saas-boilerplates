@@ -114,6 +114,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Mkdirs - https://mkdirs.com
 - MkSaaS - https://mksaas.com
 - ShipNext - https://shipnext.pro
+- Nebutra Sailor - [https://github.com/Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor) [![Stars](https://img.shields.io/github/stars/Nebutra/Nebutra-Sailor.svg)](https://github.com/Nebutra/Nebutra-Sailor)
 - Next 14 FullStack - https://thesaasfactory.dev
 - Next Starter AI - https://nextstarter.ai
 - Next.js Boilerplate - **Open Source** [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate)
