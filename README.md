@@ -207,6 +207,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## FastAPI
 
+- burntop - **Open Source** https://burntop.dev/
 - FastSaaS - https://www.fast-saas.com/
 - The Unsexy Stack - https://theunsexystack.com
 
