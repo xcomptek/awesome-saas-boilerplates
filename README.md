@@ -36,6 +36,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - DirectoryKit - https://www.directorykit.xyz/
 - Divjoy https://divjoy.com
 - Enterprise-ready SaaS Starter Kit. **Open Source**. [https://github.com/boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit)
+- Express Email OTP Login - [https://github.com/manishgupta412/express-email-otp-login](https://github.com/manishgupta412/express-email-otp-login) [![Stars](https://img.shields.io/github/stars/manishgupta412/express-email-otp-login.svg)](https://github.com/manishgupta412/express-email-otp-login)
 - FastestEngineer - [https://fastest.engineer](https://fastest.engineer)
 - Graphile Starter - [https://github.com/graphile/starter](https://github.com/graphile/starter) [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter)
 - Gravity https://usegravity.app/
