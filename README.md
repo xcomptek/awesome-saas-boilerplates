@@ -207,6 +207,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## FastAPI
 
+- FastAPI Supabase Starter - https://starter.budeglobal.in/
 - FastSaaS - https://www.fast-saas.com/
 - The Unsexy Stack - https://theunsexystack.com
 
