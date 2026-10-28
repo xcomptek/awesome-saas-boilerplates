@@ -79,6 +79,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Volca https://volca.io
 - WEBAPPBOOST - [https://webappboost.com](https://webappboost.com)
 - Saas.js - https://saas-js.com
+- express-email-otp-login - [https://github.com/parv15/express-email-otp-login](https://github.com/parv15/express-email-otp-login)
 
 ## SvelteKit
 
