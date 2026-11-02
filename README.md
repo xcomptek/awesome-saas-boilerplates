@@ -34,6 +34,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - BoilerPro - https://boilerpro.co
 - Builderkit.ai - https://www.builderkit.ai
 - DirectoryKit - https://www.directorykit.xyz/
+- express-email-otp-login - [https://github.com/parv15/express-email-otp-login](https://github.com/parv15/express-email-otp-login) [![Stars](https://img.shields.io/github/stars/parv15/express-email-otp-login.svg)](https://github.com/parv15/express-email-otp-login)
 - Divjoy https://divjoy.com
 - Enterprise-ready SaaS Starter Kit. **Open Source**. [https://github.com/boxyhq/saas-starter-kit](https://github.com/boxyhq/saas-starter-kit) [![Stars](https://img.shields.io/github/stars/boxyhq/saas-starter-kit.svg)](https://github.com/boxyhq/saas-starter-kit)
 - FastestEngineer - [https://fastest.engineer](https://fastest.engineer)
