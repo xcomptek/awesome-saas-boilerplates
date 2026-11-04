@@ -178,6 +178,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Butchr - https://butchr.dev
 - Electrik - https://github.com/electrikhq/electrik
 - JetShip Boilerplate - [https://demos.themeselection.com/jetship-laravel-boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
+- Invoicycle - https://invoicycle.com/
 - Larafast - https://larafast.com
 - Laravel Spark - https://spark.laravel.com
 - Nana - https://saasstarterkit.app/
