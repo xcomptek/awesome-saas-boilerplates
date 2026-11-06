@@ -165,6 +165,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Other
 
 
+- Electron AppStack - https://electron-appstack.com
 - [GeoInfomatic](https://geoinfomatic.pythonanywhere.com)
 - Serverless SaaS. React. https://serverless.page
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
