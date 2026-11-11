@@ -16,6 +16,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - AuthAndPay https://authandpay.com/
 - easyShip pro - https://www.easyship.pro
 - Openkoda https://github.com/openkoda/openkoda [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
+- PHABDEV Spring Boot + Angular SaaS Starter Lite - https://github.com/phabdev/spring-boot-angular-saas-starter-lite
 - Spring Boot 4 API Starter https://payhip.com/b/wXQ7a
 - Springular https://springular.io/
 - ZukovLabs SaaS Starter https://github.com/zukovlabs/enterprise-java-saas-starter-kit
@@ -26,6 +27,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - Launchnow https://www.launchnow.pro/
 - SaaS Starter by Cloudrix - **Open Source**. https://github.com/sayahweb2-png/saas-starter-lite [![Stars](https://img.shields.io/github/stars/sayahweb2-png/saas-starter-lite.svg)](https://github.com/sayahweb2-png/saas-starter-lite) - NestJS + Angular, Stripe, multi-tenancy, MIT license
+- SaaS Starter - NestJS 11 + Angular 21 SaaS boilerplate with auth (JWT, OAuth, 2FA), Stripe, multi-tenancy, RBAC, admin dashboard, Docker, Terraform. [Demo](https://demo.cloudrix.io) | [Free lite version](https://github.com/sayahweb2-png/saas-starter-lite)
 - SYNDROM https://syndrom.io/
 
 ## Node.js
@@ -105,6 +107,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - DevFlow - **Open Source**. Production-ready kanban SaaS in Next.js 15: JWT auth, boards, tasks, drag & drop, Prisma, PostgreSQL/SQLite, Docker and a green CI pipeline https://github.com/Abderrahim-Allaoui/devflow
 - Agentic React Template - **Open Source** Agent-testable SaaS starter with Next.js 16 + shadcn/ui + Tailwind CSS [https://github.com/iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) [![Stars](https://img.shields.io/github/stars/iscale-llc/agentic-react-nextjs-shadcn.svg)](https://github.com/iscale-llc/agentic-react-nextjs-shadcn)
+- Agentwright - https://agentwright.app/?utm_source=awesome-saas-boilerplates
 - All-In-One https://allinonedev.com
 - ApisKit - https://kit.apisdom.com/?utm_source=awesome-saas-boilerplates
 - Appliful - https://appliful.com/
@@ -112,15 +115,18 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - BoilerPro - https://boilerpro.co
 - Bones - [bones.sh](https://bones.sh)
 - Builderkit.ai - https://www.builderkit.ai
+- Claude AI SaaS Starter - **Open Source**. Next.js 14 + Claude AI streaming chat + Stripe billing + Google Auth. https://github.com/moukie76/claude-saas-starter [![Stars](https://img.shields.io/github/stars/moukie76/claude-saas-starter.svg)](https://github.com/moukie76/claude-saas-starter)
 - Dirstarter - https://dirstarter.com/?utm_source=awesome-saas-boilerplates
 - Forgekit - **Open Source** Next.js 16 AI SaaS starter with streaming chat, RAG on pgvector, Better Auth and Drizzle, self-hosted with Docker [https://github.com/fabwaseem/forgekit](https://github.com/fabwaseem/forgekit) [![Stars](https://img.shields.io/github/stars/fabwaseem/forgekit.svg)](https://github.com/fabwaseem/forgekit)
 - Frontend Accelerator - https://FrontendAccelerator.com/?utm_source=awesome-saas-boilerplates
+- Gemini AI Suite - https://skappax.github.io/gemini-ai-suite
 - Generator Forge - https://dbtaametrics83.gumroad.com/l/adxarv
 - Indie Kit - https://indiekit.pro/
 - Kokonut - https://kokonut.dev/
 - Kostra - https://kostra.io
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
 - LaunchSaaS - https://launchsaas.dev/?utm_source=awesome-saas-boilerplates
+- MailKite SaaS Starter - **Open Source** Next.js 15 SaaS starter with self-contained auth (Google/GitHub OAuth + email/password, no auth vendor), Stripe subscriptions, teams, Postgres/Drizzle, shadcn/ui, dark-first UI [https://github.com/mailkite/saas-startup](https://github.com/mailkite/saas-startup) [![Stars](https://img.shields.io/github/stars/mailkite/saas-startup.svg)](https://github.com/mailkite/saas-startup)
 - Mkdirs - https://mkdirs.com
 - MkSaaS - https://mksaas.com
 - ShipNext - https://shipnext.pro
@@ -135,7 +141,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - NextJS 14 SaaS Starter with Lucia and Stripe [https://github.com/juliankoehn/nextjs-saas-starter](https://github.com/juliankoehn/nextjs-saas-starter) [![Stars](https://img.shields.io/github/stars/juliankoehn/nextjs-saas-starter.svg)](https://github.com/juliankoehn/nextjs-saas-starter)
 - NextJSDirectory https://nextjsdirectory.com/
 - NextSaaS - https://nextsaas.live
-- NextUpKit - https://www.nextupkit.com 
+- NextUpKit - https://www.nextupkit.com
 - Nextwrapper https://nextwrapper.com/
 - Nexty.dev https://nexty.dev/
 - No-Code Platform Boilerplate - https://github.com/nocode-js/nocode-platform-boilerplate [![Stars](https://img.shields.io/github/stars/nocode-js/nocode-platform-boilerplate.svg)](https://github.com/nocode-js/nocode-platform-boilerplate)
@@ -152,11 +158,14 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Shaker's Kit - https://shakersk.it
 - ShipAI.today - https://shipai.today/
 - ShipFast - https://shipfa.st/
-- Shipkit - [shipkit.io](https://shipkit.io) 
+- Shipkit - [shipkit.io](https://shipkit.io)
+- ShipKit by DavrApps - https://shipkit.davrapps.dev - Next.js 16 + Bun/ElysiaJS API, Better Auth, Polar payments, admin app
 - Shipped https://shipped.club/?utm_source=awesome-saas-boilerplates
+- ShipToPaid - https://www.shiptopaid.com/?utm_source=awesome-saas-boilerplates
 - Socle FR - https://guscobaye.gumroad.com/l/socle-fr
 - StartFast - https://startfast.cc
 - StartupBolt https://www.startupbolt.com/?utm_source=awesome-saas-boilerplates
+- supastack - https://supastack.dev
 - supastarter - https://supastarter.dev/nextjs
 - SuperDir - https://superdir.focusapps.app
 - SuperStarter - https://superstarter.focusapps.app/
@@ -173,6 +182,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - All-In-One - https://allinonedev.com
 - LaunchYourApp - https://launchyourapp.dev/
+- Mobile App Code Template - **Open Source**. https://github.com/robinsadeghpour/mobile-app-code-template
 - NativeExpress - https://native.express
 - OTF Kit - https://otf-kit.dev/templates/fitness-kit?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=listing-xcomptek-fitness
 - React Native Boilerplate - https://reactnativeboilerplate.com
@@ -183,8 +193,10 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Other
 
 
+- [ContinueWith](https://continuewith.ai) - Let visitors continue any website page inside ChatGPT, Claude, Gemini, Grok, Perplexity, Mistral, and other AI assistants in one click.
 - Electron AppStack - https://electron-appstack.com
 - [GeoInfomatic](https://geoinfomatic.pythonanywhere.com)
+- Onelo - Auth, paywall on your own Stripe, feature flags, monitoring and more — 14 modules on one SDK, JS/TS/Swift/Kotlin/Flutter/RN/Electron. https://onelo.tools
 - Serverless SaaS. React. https://serverless.page
 - ShipKit.sh - https://shipkit.sh
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
@@ -229,6 +241,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## FastAPI
 
+- burntop - **Open Source** https://burntop.dev/
 - FastAPI Supabase Starter - https://starter.budeglobal.in/
 - FastSaaS - https://www.fast-saas.com/
 - The Unsexy Stack - https://theunsexystack.com
