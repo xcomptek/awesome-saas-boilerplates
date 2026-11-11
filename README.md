@@ -111,6 +111,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Dirstarter - https://dirstarter.com/?utm_source=awesome-saas-boilerplates
 - Forgekit - **Open Source** Next.js 16 AI SaaS starter with streaming chat, RAG on pgvector, Better Auth and Drizzle, self-hosted with Docker [https://github.com/fabwaseem/forgekit](https://github.com/fabwaseem/forgekit) [![Stars](https://img.shields.io/github/stars/fabwaseem/forgekit.svg)](https://github.com/fabwaseem/forgekit)
 - Frontend Accelerator - https://FrontendAccelerator.com/?utm_source=awesome-saas-boilerplates
+- Generator Forge - https://dbtaametrics83.gumroad.com/l/adxarv
 - Indie Kit - https://indiekit.pro/
 - Kokonut - https://kokonut.dev/
 - Kostra - https://kostra.io
