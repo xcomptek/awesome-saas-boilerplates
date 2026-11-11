@@ -267,6 +267,11 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - LastSaaS. Go + React + MongoDB. **Open Source** [https://github.com/jonradoff/lastsaas](https://github.com/jonradoff/lastsaas) [![Stars](https://img.shields.io/github/stars/jonradoff/lastsaas.svg)](https://github.com/jonradoff/lastsaas)
 - SaaS Startup Kit. Golang - **Open Source** https://saasstartupkit.com/
 
+## Rust
+
+- ShipRust - https://shiprust.com/
+
+
 ## Ruby on Rails
 
 - Bullet Train - https://bullettrain.co
