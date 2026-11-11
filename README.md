@@ -295,6 +295,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - BoilerPro - https://boilerpro.co
 - Extro - Open source browser extension starter kit [https://github.com/turbostarter/extro](https://github.com/turbostarter/extro) [![Stars](https://img.shields.io/github/stars/turbostarter/extro.svg)](https://github.com/turbostarter/extro)
 - Flutter - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
+- Keyturn Kit - https://github.com/keyturnkit/keyturn-kit
 - Quapp: Quasar + Appwrite https://www.quapp.dev/
 - Swift Maker - https://swiftmaker.dev/
 - The Flutter Kit - Cross-platform Flutter boilerplate with Firebase Auth, RevenueCat subscriptions, OpenAI integration, push notifications, Material 3 design system, and BLoC architecture. https://theflutterk.it.com/
