@@ -1,8 +1,7 @@
 List of SaaS boilerplates (starter kits) by stack
 
-_Browse/filter by tech stack and rate -> https://xcomptek.com/awesome-saas-boilerplates/_
+_Did I miss something? Do you have a boilerplate to share? -> create a PR ([How to?](https://kbroman.org/github_tutorial/pages/fork.html)). Add only link and name of your project (no description/stack)_
 
-_Did I miss something? Do you have a boilerplate to share? -> create a PR ([How to?](https://kbroman.org/github_tutorial/pages/fork.html))_
 
 # JVM
 
@@ -17,6 +16,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - AuthAndPay https://authandpay.com/
 - easyShip pro - https://www.easyship.pro
 - Openkoda https://github.com/openkoda/openkoda [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
+- Spring Boot 4 API Starter https://payhip.com/b/wXQ7a
 - Springular https://springular.io/
 - ZukovLabs SaaS Starter https://github.com/zukovlabs/enterprise-java-saas-starter-kit
 
@@ -41,6 +41,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Graphile Starter - [https://github.com/graphile/starter](https://github.com/graphile/starter) [![Stars](https://img.shields.io/github/stars/graphile/starter.svg)](https://github.com/graphile/starter)
 - Gravity https://usegravity.app/
 - Horizon UI - https://horizon-ui.com/boilerplate
+- Hype Stack. **Open Source**. https://github.com/BetterTyped/hype-stack
 - Indie https://indie-starter.dev
 - Launchway - https://www.launchway.dev/
 - makerkit - https://makerkit.dev
@@ -53,8 +54,11 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - NextReady - https://nextready.dev
 - Nodewood https://nodewood.com/
 - Novel https://novel.dev
+- OMEGA - https://omegajs.dev
 - OpenSaaS.sh - **Open Source** https://opensaas.sh/?utm_source=awesome-saas-boilerplates [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas)
+- OTF Kit - https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=listing-xcomptek-saas
 - React SaaS **Open Source** https://react-saas.com/
+- React Starter Kit - **Open Source** [https://github.com/kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) [![Stars](https://img.shields.io/github/stars/kriasoft/react-starter-kit.svg)](https://github.com/kriasoft/react-starter-kit)
 - Rocket App https://rocketapp.me/
 - SaaS Boilerplate by Async Labs - [https://github.com/async-labs/saas](https://github.com/async-labs/saas) [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas)
 - SaaS Starter Kit - https://www.startsaas.com
@@ -83,6 +87,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## SvelteKit
 
+- AgenticSaaS - https://agenticsaas.flawlesslyhuman.com/
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
 - FastestEngineer - https://fastest.engineer
 - Just Ship - https://justship.today
@@ -98,22 +103,28 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
+- DevFlow - **Open Source**. Production-ready kanban SaaS in Next.js 15: JWT auth, boards, tasks, drag & drop, Prisma, PostgreSQL/SQLite, Docker and a green CI pipeline https://github.com/Abderrahim-Allaoui/devflow
 - Agentic React Template - **Open Source** Agent-testable SaaS starter with Next.js 16 + shadcn/ui + Tailwind CSS [https://github.com/iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) [![Stars](https://img.shields.io/github/stars/iscale-llc/agentic-react-nextjs-shadcn.svg)](https://github.com/iscale-llc/agentic-react-nextjs-shadcn)
 - All-In-One https://allinonedev.com
+- ApisKit - https://kit.apisdom.com/?utm_source=awesome-saas-boilerplates
 - Appliful - https://appliful.com/
 - Bedrock - https://bedrock.mxstbr.com/
 - BoilerPro - https://boilerpro.co
 - Bones - [bones.sh](https://bones.sh)
 - Builderkit.ai - https://www.builderkit.ai
 - Dirstarter - https://dirstarter.com/?utm_source=awesome-saas-boilerplates
+- Forgekit - **Open Source** Next.js 16 AI SaaS starter with streaming chat, RAG on pgvector, Better Auth and Drizzle, self-hosted with Docker [https://github.com/fabwaseem/forgekit](https://github.com/fabwaseem/forgekit) [![Stars](https://img.shields.io/github/stars/fabwaseem/forgekit.svg)](https://github.com/fabwaseem/forgekit)
 - Frontend Accelerator - https://FrontendAccelerator.com/?utm_source=awesome-saas-boilerplates
+- Generator Forge - https://dbtaametrics83.gumroad.com/l/adxarv
 - Indie Kit - https://indiekit.pro/
 - Kokonut - https://kokonut.dev/
 - Kostra - https://kostra.io
 - LaunchFa.st https://launchfa.st/?utm_source=awesome-saas-boilerplates
+- LaunchSaaS - https://launchsaas.dev/?utm_source=awesome-saas-boilerplates
 - Mkdirs - https://mkdirs.com
 - MkSaaS - https://mksaas.com
 - ShipNext - https://shipnext.pro
+- Nebutra Sailor - [https://github.com/Nebutra/Nebutra-Sailor](https://github.com/Nebutra/Nebutra-Sailor) [![Stars](https://img.shields.io/github/stars/Nebutra/Nebutra-Sailor.svg)](https://github.com/Nebutra/Nebutra-Sailor)
 - Next 14 FullStack - https://thesaasfactory.dev
 - Next Starter AI - https://nextstarter.ai
 - Next.js Boilerplate - **Open Source** [https://github.com/ixartz/Next-js-Boilerplate](https://github.com/ixartz/Next-js-Boilerplate) [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate)
@@ -133,22 +144,29 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Rocketlaunch - https://www.rocket-launch.dev/
 - SaaS AI - [saasai.dev](https://saasai.dev)
 - SaaS Kit - **Open Sourse** https://saaskit.one/
+- SaaS Starter - Next.js 15 kit with organizations and enforced seats, hashed API keys, an admin panel, 8 languages across the signed-in app and 128 tests - https://saas-starter.com
+- SaaS Starter Lite - **Open Source** Minimal MIT version of the above: Clerk auth, Stripe subscriptions, Prisma, dark mode on the shadcn/ui token contract, and `npm run audit` which reports the gaps between what the code declares and what it runs [https://github.com/THE-KIPDEV/saas-starter-lite](https://github.com/THE-KIPDEV/saas-starter-lite) [![Stars](https://img.shields.io/github/stars/THE-KIPDEV/saas-starter-lite.svg)](https://github.com/THE-KIPDEV/saas-starter-lite)
 - SaaSLaunch - https://saaslaunch.dev/?utm_source=awesome-saas-boilerplates
 - SaasRock - https://saasrock.com
+- SaaSLaunch - https://saaslaunch.dev
 - Shaker's Kit - https://shakersk.it
 - ShipAI.today - https://shipai.today/
 - ShipFast - https://shipfa.st/
 - Shipkit - [shipkit.io](https://shipkit.io) 
 - Shipped https://shipped.club/?utm_source=awesome-saas-boilerplates
+- Socle FR - https://guscobaye.gumroad.com/l/socle-fr
 - StartFast - https://startfast.cc
 - StartupBolt https://www.startupbolt.com/?utm_source=awesome-saas-boilerplates
 - supastarter - https://supastarter.dev/nextjs
 - SuperDir - https://superdir.focusapps.app
 - SuperStarter - https://superstarter.focusapps.app/
+- Syncoders Next.js SaaS Starter - https://syncoder.gumroad.com/l/fipqna
 - TurboStarter https://turbostarter.dev
+- UllrAI SaaS Starter - **Open Source** Next.js 16 starter with Better Auth, Stripe, PostgreSQL/Drizzle, Cloudflare R2, i18n, and agent/CLI authentication. [Live demo](https://starter.ullrai.com/?utm_source=awesome-saas-boilerplates&utm_medium=referral&utm_campaign=seo_growth_2026q3) [Source](https://github.com/UllrAI/SaaS-Starter) [![Stars](https://img.shields.io/github/stars/UllrAI/SaaS-Starter.svg)](https://github.com/UllrAI/SaaS-Starter)
 - Usenextbase - https://usenextbase.com
 - VelocityKit - https://www.velocitykit.dev
 - Velobase Harness - https://github.com/velobase/velobase-harness [![Stars](https://img.shields.io/github/stars/velobase/velobase-harness.svg)](https://github.com/velobase/velobase-harness)
+- Zero Drift - https://zero-drift-starter.vercel.app
 - PocketStarter for PocketBase - https://pocketstarter.dev
 
 ## React Native
@@ -156,6 +174,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - All-In-One - https://allinonedev.com
 - LaunchYourApp - https://launchyourapp.dev/
 - NativeExpress - https://native.express
+- OTF Kit - https://otf-kit.dev/templates/fitness-kit?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=listing-xcomptek-fitness
 - React Native Boilerplate - https://reactnativeboilerplate.com
 - ShipNative - https://shipnative.app
 - SupaWrapper -  https://supawrapper.com
@@ -164,9 +183,11 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 ## Other
 
 
+- Electron AppStack - https://electron-appstack.com
 - [GeoInfomatic](https://geoinfomatic.pythonanywhere.com)
 - Onelo - Auth, paywall on your own Stripe, feature flags, monitoring and more — 14 modules on one SDK, JS/TS/Swift/Kotlin/Flutter/RN/Electron. https://onelo.tools
 - Serverless SaaS. React. https://serverless.page
+- ShipKit.sh - https://shipkit.sh
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
 - TurboStarter https://turbostarter.dev
 
@@ -178,6 +199,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Butchr - https://butchr.dev
 - Electrik - https://github.com/electrikhq/electrik
 - JetShip Boilerplate - [https://demos.themeselection.com/jetship-laravel-boilerplate](https://demos.themeselection.com/jetship-laravel-boilerplate)
+- Invoicycle - https://invoicycle.com/
 - Larafast - https://larafast.com
 - Laravel Spark - https://spark.laravel.com
 - Nana - https://saasstarterkit.app/
@@ -192,10 +214,12 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Tenancy - https://tenancyforlaravel.com/saas-boilerplate/
 - Velocity https://pastaduck.gumroad.com/l/chbnv
 - Wave - https://devdojo.com/wave
+- ProjectFlow - https://esdecode.com/item/projectflow-multi-company-project-management-laravel-13-vue-3-saas-ready
 
 ## Symfony
 
 - Parthenon **Open Source** - https://getparthenon.com
+- ShipAnvil - https://shipanvil.com
 
 ## WordPress
 
@@ -206,6 +230,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## FastAPI
 
+- FastAPI Supabase Starter - https://starter.budeglobal.in/
 - FastSaaS - https://www.fast-saas.com/
 - The Unsexy Stack - https://theunsexystack.com
 
@@ -256,12 +281,18 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - LastSaaS. Go + React + MongoDB. **Open Source** [https://github.com/jonradoff/lastsaas](https://github.com/jonradoff/lastsaas) [![Stars](https://img.shields.io/github/stars/jonradoff/lastsaas.svg)](https://github.com/jonradoff/lastsaas)
 - SaaS Startup Kit. Golang - **Open Source** https://saasstartupkit.com/
 
+## Rust
+
+- ShipRust - https://shiprust.com/
+
+
 ## Ruby on Rails
 
 - Bullet Train - https://bullettrain.co
 - Jumpstart Rails - https://jumpstartrails.com/
 - Lightning Rails - https://lightningrails.com
 - Rails Tabler Starter -  https://github.com/tarunvelli/rails-tabler-starter
+- RexOne - **Open Source** https://github.com/rex-9/rexone-core
 - Sjabloon - https://www.getsjabloon.com/
 
 ## Remix
@@ -288,6 +319,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - BoilerPro - https://boilerpro.co
 - Extro - Open source browser extension starter kit [https://github.com/turbostarter/extro](https://github.com/turbostarter/extro) [![Stars](https://img.shields.io/github/stars/turbostarter/extro.svg)](https://github.com/turbostarter/extro)
 - Flutter - [https://www.flutterboilerplate.com](https://www.flutterboilerplate.com?utm_source=awesome-saas-boilerplates)
+- Keyturn Kit - https://github.com/keyturnkit/keyturn-kit
 - Quapp: Quasar + Appwrite https://www.quapp.dev/
 - Swift Maker - https://swiftmaker.dev/
 - The Flutter Kit - Cross-platform Flutter boilerplate with Firebase Auth, RevenueCat subscriptions, OpenAI integration, push notifications, Material 3 design system, and BLoC architecture. https://theflutterk.it.com/
