@@ -82,6 +82,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## SvelteKit
 
+- AgenticSaaS - https://agenticsaas.flawlesslyhuman.com/
 - CMSaasStarter - https://github.com/CriticalMoments/CMSaasStarter
 - FastestEngineer - https://fastest.engineer
 - Just Ship - https://justship.today
