@@ -57,6 +57,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - OpenSaaS.sh - **Open Source** https://opensaas.sh/?utm_source=awesome-saas-boilerplates [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas)
 - OTF Kit - https://otf-kit.dev/templates/saas-dashboard?utm_source=directory&utm_medium=organic&utm_campaign=first-sale-14d-20261016&utm_content=listing-xcomptek-saas
 - React SaaS **Open Source** https://react-saas.com/
+- React Starter Kit - **Open Source** [https://github.com/kriasoft/react-starter-kit](https://github.com/kriasoft/react-starter-kit) [![Stars](https://img.shields.io/github/stars/kriasoft/react-starter-kit.svg)](https://github.com/kriasoft/react-starter-kit)
 - Rocket App https://rocketapp.me/
 - SaaS Boilerplate by Async Labs - [https://github.com/async-labs/saas](https://github.com/async-labs/saas) [![Stars](https://img.shields.io/github/stars/async-labs/saas.svg)](https://github.com/async-labs/saas)
 - SaaS Starter Kit - https://www.startsaas.com
