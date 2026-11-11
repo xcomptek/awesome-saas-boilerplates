@@ -16,6 +16,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - AuthAndPay https://authandpay.com/
 - easyShip pro - https://www.easyship.pro
 - Openkoda https://github.com/openkoda/openkoda [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
+- Spring Boot 4 API Starter https://payhip.com/b/wXQ7a
 - Springular https://springular.io/
 - ZukovLabs SaaS Starter https://github.com/zukovlabs/enterprise-java-saas-starter-kit
 
