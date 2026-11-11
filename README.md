@@ -14,7 +14,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - easyShip pro - https://www.easyship.pro/
 - Openkoda - https://github.com/openkoda/openkoda [![Stars](https://img.shields.io/github/stars/openkoda/openkoda.svg)](https://github.com/openkoda/openkoda)
-- PHABDEV Spring Boot + Angular SaaS Starter Lite - https://github.com/phabdev/spring-boot-angular-saas-starter-lite [![Stars](https://img.shields.io/github/stars/phabdev/spring-boot-angular-saas-starter-lite.svg)](https://github.com/phabdev/spring-boot-angular-saas-starter-lite)
+- PHABDEV - https://github.com/phabdev/spring-boot-angular-saas-starter-lite [![Stars](https://img.shields.io/github/stars/phabdev/spring-boot-angular-saas-starter-lite.svg)](https://github.com/phabdev/spring-boot-angular-saas-starter-lite)
 - ZukovLabs SaaS Starter - https://github.com/zukovlabs/enterprise-java-saas-starter-kit [![Stars](https://img.shields.io/github/stars/zukovlabs/enterprise-java-saas-starter-kit.svg)](https://github.com/zukovlabs/enterprise-java-saas-starter-kit)
 
 # Javascript/Typescript
