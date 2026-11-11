@@ -148,6 +148,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - supastarter - https://supastarter.dev/nextjs
 - SuperDir - https://superdir.focusapps.app
 - SuperStarter - https://superstarter.focusapps.app/
+- Syncoders Next.js SaaS Starter - https://syncoder.gumroad.com/l/fipqna
 - TurboStarter https://turbostarter.dev
 - Usenextbase - https://usenextbase.com
 - VelocityKit - https://www.velocitykit.dev
