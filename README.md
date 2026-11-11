@@ -97,6 +97,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Next.js
 
+- DevFlow - **Open Source**. Production-ready kanban SaaS in Next.js 15: JWT auth, boards, tasks, drag & drop, Prisma, PostgreSQL/SQLite, Docker and a green CI pipeline https://github.com/Abderrahim-Allaoui/devflow
 - Agentic React Template - **Open Source** Agent-testable SaaS starter with Next.js 16 + shadcn/ui + Tailwind CSS [https://github.com/iscale-llc/agentic-react-nextjs-shadcn](https://github.com/iscale-llc/agentic-react-nextjs-shadcn) [![Stars](https://img.shields.io/github/stars/iscale-llc/agentic-react-nextjs-shadcn.svg)](https://github.com/iscale-llc/agentic-react-nextjs-shadcn)
 - All-In-One https://allinonedev.com
 - ApisKit - https://kit.apisdom.com/?utm_source=awesome-saas-boilerplates
