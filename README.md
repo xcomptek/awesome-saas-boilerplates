@@ -173,6 +173,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Electron AppStack - https://electron-appstack.com
 - [GeoInfomatic](https://geoinfomatic.pythonanywhere.com)
 - Serverless SaaS. React. https://serverless.page
+- ShipKit.sh - https://shipkit.sh
 - SUB - React, Typescript, Tailwind CSS, Firebase and Stripe - https://getsub.dev
 - TurboStarter https://turbostarter.dev
 
