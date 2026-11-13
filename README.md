@@ -166,6 +166,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - OTF Kit - https://otf-kit.dev/templates/fitness-kit
 - React Native Boilerplate - https://reactnativeboilerplate.com/
 - ShipNative - https://shipnative.app/
+- supastack - https://supastack.dev/
 - TurboStarter - https://turbostarter.dev/
 
 ## Other
