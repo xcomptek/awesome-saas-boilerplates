@@ -111,6 +111,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Gemini AI Suite - https://skappax.github.io/gemini-ai-suite
 - Generator Forge - https://dbtaametrics83.gumroad.com/l/adxarv
 - Indie Kit - https://indiekit.pro/
+- Keel - https://github.com/Nimos-Websites/keel [![Stars](https://img.shields.io/github/stars/Nimos-Websites/keel.svg)](https://github.com/Nimos-Websites/keel)
 - Kostra - https://kostra.io/
 - LaunchFa.st - https://launchfa.st/
 - LaunchSaaS - https://launchsaas.dev/
