@@ -1,3 +1,14 @@
+Sponsored by Whop: if you use one of these boilerplates to start a
+paid SaaS, Whop is a way to charge your customers, sell subscriptions
+and software licenses internationally, at competitive fees.
+https://go.nli.one/saasboiler
+
+Partner link: your partner earns a commission from Whop, at no extra
+cost to you. As a bonus, you get their exclusive resources by private
+message after signing up, plus reduced fees within 24 to 48 hours.
+
+---
+
 List of SaaS boilerplates (starter kits) by stack
 
 _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How to?](https://kbroman.org/github_tutorial/pages/fork.html)). Add only link and name of your project (no description/stack)_
