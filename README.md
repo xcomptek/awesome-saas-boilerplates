@@ -63,6 +63,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Novel - https://novel.dev/
 - OMEGA - https://omegajs.dev/
 - OpenSaaS.sh - https://github.com/wasp-lang/open-saas [![Stars](https://img.shields.io/github/stars/wasp-lang/open-saas.svg)](https://github.com/wasp-lang/open-saas)
+- OpenStarterKit - https://openstarterkit.dev/
 - OTF Kit - https://otf-kit.dev/templates/saas-dashboard
 - React SaaS - https://react-saas.com/
 - React Starter Kit - https://github.com/kriasoft/react-starter-kit [![Stars](https://img.shields.io/github/stars/kriasoft/react-starter-kit.svg)](https://github.com/kriasoft/react-starter-kit)
