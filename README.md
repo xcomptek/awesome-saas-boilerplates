@@ -142,6 +142,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Nextwrapper - https://nextwrapper.com/
 - Nexty.dev - https://nexty.dev/
 - No-Code Platform Boilerplate - https://github.com/nocode-js/nocode-platform-boilerplate [![Stars](https://img.shields.io/github/stars/nocode-js/nocode-platform-boilerplate.svg)](https://github.com/nocode-js/nocode-platform-boilerplate)
+- OpenStarterKit - https://openstarterkit.dev/
 - PocketStarter for PocketBase - https://pocketstarter.dev/
 - QuickStart - https://www.quickstartjs.com/
 - Rocketlaunch - https://www.rocket-launch.dev/
