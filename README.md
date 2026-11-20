@@ -273,6 +273,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 ## Rust
 
+- LaunchCrate - https://launchcrate.dev/
 - ShipRust - https://shiprust.com/
 
 ## Ruby on Rails
