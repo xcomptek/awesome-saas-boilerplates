@@ -131,6 +131,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - MkSaaS - https://mksaas.com/
 - Nebutra Sailor - https://github.com/Nebutra/Nebutra-Sailor [![Stars](https://img.shields.io/github/stars/Nebutra/Nebutra-Sailor.svg)](https://github.com/Nebutra/Nebutra-Sailor)
 - Next 14 FullStack - https://thesaasfactory.dev/
+- next-vibe - https://github.com/techfreaque/next-vibe [![Stars](https://img.shields.io/github/stars/techfreaque/next-vibe.svg)](https://github.com/techfreaque/next-vibe)
 - Nextacular - https://nextacular.co/
 - NextJS 14 SaaS Starter with Lucia and Stripe - https://github.com/juliankoehn/nextjs-saas-starter [![Stars](https://img.shields.io/github/stars/juliankoehn/nextjs-saas-starter.svg)](https://github.com/juliankoehn/nextjs-saas-starter)
 - Next.js Boilerplate - https://github.com/ixartz/Next-js-Boilerplate [![Stars](https://img.shields.io/github/stars/ixartz/Next-js-Boilerplate.svg)](https://github.com/ixartz/Next-js-Boilerplate)
