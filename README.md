@@ -13,7 +13,6 @@ List of SaaS boilerplates (starter kits) by stack
 
 _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How to?](https://kbroman.org/github_tutorial/pages/fork.html)). Add only link and name of your project (no description/stack)_
 
-
 # JVM
 
 ## Kotlin
@@ -202,6 +201,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Electrik - https://github.com/electrikhq/electrik [![Stars](https://img.shields.io/github/stars/electrikhq/electrik.svg)](https://github.com/electrikhq/electrik)
 - Invoicycle - https://invoicycle.com/
 - JetShip Boilerplate - https://demos.themeselection.com/jetship-laravel-boilerplate
+- Keel - https://keelapp.gumroad.com/l/ubenfa
 - Larafast - https://larafast.com/
 - Laravel Spark - https://spark.laravel.com/
 - Nana - https://saasstarterkit.app/
