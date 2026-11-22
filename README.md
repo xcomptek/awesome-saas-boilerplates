@@ -205,6 +205,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Larafast - https://larafast.com/
 - Laravel Spark - https://spark.laravel.com/
 - Nana - https://saasstarterkit.app/
+- OctoForge - https://octoforge.io/
 - ProjectFlow - https://esdecode.com/item/projectflow-multi-company-project-management-laravel-13-vue-3-saas-ready
 - saas-boilerplate - https://github.com/miracuthbert/saas-boilerplate [![Stars](https://img.shields.io/github/stars/miracuthbert/saas-boilerplate.svg)](https://github.com/miracuthbert/saas-boilerplate)
 - SaasForgeKit Lite - https://github.com/SaasForgeKit/saasforgekit-lite [![Stars](https://img.shields.io/github/stars/SaasForgeKit/saasforgekit-lite.svg)](https://github.com/SaasForgeKit/saasforgekit-lite)
