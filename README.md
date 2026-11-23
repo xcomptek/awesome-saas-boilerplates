@@ -202,6 +202,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Electrik - https://github.com/electrikhq/electrik [![Stars](https://img.shields.io/github/stars/electrikhq/electrik.svg)](https://github.com/electrikhq/electrik)
 - Invoicycle - https://invoicycle.com/
 - JetShip Boilerplate - https://demos.themeselection.com/jetship-laravel-boilerplate
+- Keel - https://keelapp.gumroad.com/l/ubenfa
 - Larafast - https://larafast.com/
 - Laravel Spark - https://spark.laravel.com/
 - Nana - https://saasstarterkit.app/
