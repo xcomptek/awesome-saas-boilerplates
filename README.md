@@ -108,6 +108,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - Agentic React Template - https://github.com/iscale-llc/agentic-react-nextjs-shadcn [![Stars](https://img.shields.io/github/stars/iscale-llc/agentic-react-nextjs-shadcn.svg)](https://github.com/iscale-llc/agentic-react-nextjs-shadcn)
 - Agentwright - https://agentwright.app/
+- AI Apps That Work - https://aiappsthatwork.com/
 - All-In-One - https://allinonedev.com/
 - ApisKit - https://kit.apisdom.com/
 - Appliful - https://appliful.com/
