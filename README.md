@@ -35,6 +35,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - Launchnow - https://www.launchnow.pro/
 - SaaS Starter - https://github.com/sayahweb2-png/saas-starter-lite [![Stars](https://img.shields.io/github/stars/sayahweb2-png/saas-starter-lite.svg)](https://github.com/sayahweb2-png/saas-starter-lite)
 - SaaS Starter by Cloudrix - https://github.com/sayahweb2-png/saas-starter-lite [![Stars](https://img.shields.io/github/stars/sayahweb2-png/saas-starter-lite.svg)](https://github.com/sayahweb2-png/saas-starter-lite)
+- Zelo - https://github.com/JinPen-G/Zelo
 
 ## Node.js
 
