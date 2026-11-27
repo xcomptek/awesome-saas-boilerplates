@@ -84,6 +84,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 - StarterSaaS - https://www.startersaas.com/
 - StartKit.AI - https://startkit.ai/
 - Supastarter - https://supastarter.dev/
+- Telegram Stars Bot Boilerplate - https://github.com/kraiwen23/telegram-stars-bot-boilerplate [![Stars](https://img.shields.io/github/stars/kraiwen23/telegram-stars-bot-boilerplate.svg)](https://github.com/kraiwen23/telegram-stars-bot-boilerplate)
 - Turbojet - https://www.turbojet.co/
 - TurboStarter - https://turbostarter.dev/
 - ULTIMATE BACKEND - https://github.com/juicycleff/ultimate-backend [![Stars](https://img.shields.io/github/stars/juicycleff/ultimate-backend.svg)](https://github.com/juicycleff/ultimate-backend)
