@@ -187,6 +187,7 @@ _Did I miss something? Do you have a boilerplate to share? -> create a PR ([How 
 
 - ContinueWith - https://continuewith.ai/
 - Electron AppStack - https://electron-appstack.com/
+- Forkit - https://forkit.irshath.com/
 - GeoInfomatic - https://geoinfomatic.pythonanywhere.com/
 - Helpful Mods Foundation Kit - https://helpfulmods.com/foundation/
 - Onelo - https://onelo.tools/
